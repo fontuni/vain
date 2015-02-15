@@ -21,25 +21,25 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1424010032
-ModificationTime: 1424026331
+ModificationTime: 1424039956
 PfmFamily: 49
 TTFWeight: 900
 TTFWidth: 5
 LineGap: 108
 VLineGap: 0
-OS2TypoAscent: 0
-OS2TypoAOffset: 1
-OS2TypoDescent: 0
-OS2TypoDOffset: 1
+OS2TypoAscent: 960
+OS2TypoAOffset: 0
+OS2TypoDescent: -240
+OS2TypoDOffset: 0
 OS2TypoLinegap: 108
-OS2WinAscent: 0
-OS2WinAOffset: 1
-OS2WinDescent: 0
-OS2WinDOffset: 1
-HheadAscent: 0
-HheadAOffset: 1
-HheadDescent: 0
-HheadDOffset: 1
+OS2WinAscent: 1320
+OS2WinAOffset: 0
+OS2WinDescent: 480
+OS2WinDOffset: 0
+HheadAscent: 1320
+HheadAOffset: 0
+HheadDescent: -480
+HheadDOffset: 0
 OS2CapHeight: 0
 OS2XHeight: 0
 OS2Vendor: 'BUni'
@@ -50,12 +50,13 @@ MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033 "" "" "" "" "" "" "" "" "" "Sungsit Sawaiwan" "" "" "" "Public Domain (CC0 1.0)" "https://creativecommons.org/publicdomain/zero/1.0/"
 Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 0
 FitToEm: 1
-WinInfo: 2702 14 8
+WinInfo: 0 14 8
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 288358 144179 96119 524288 1048576 96119 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
