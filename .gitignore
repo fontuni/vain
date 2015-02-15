@@ -7,3 +7,5 @@
 *.sig
 pkg/
 src/
+
+*.sfd-*
