@@ -13,3 +13,5 @@ src/
 *.ttf
 *.woff
 *.woff2
+
+vain/*
