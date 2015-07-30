@@ -2,7 +2,7 @@
 
 (การเซ็นเซอร์มีจุดจบที่สมบูรณ์ทางตรรกะ เมื่อไม่มีใครได้รับอนุญาตให้อ่านอะไร นอกจากหนังสือที่ไม่มีใครอ่านออก)
 
-![Vain screenshot](vain-screenshot.jpg)
+![Vain screenshot](images/vain-screenshot.jpg)
 
 # ฟอนต์เวร
 

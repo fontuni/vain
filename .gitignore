@@ -9,9 +9,3 @@ pkg/
 src/
 
 *.sfd-*
-*.otf
-*.ttf
-*.woff
-*.woff2
-
-vain/*
