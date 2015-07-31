@@ -12,6 +12,15 @@
   <unicode hex="01EF"/>
   <unicode hex="01F0"/>
   <unicode hex="0233"/>
+
+  <unicode hex="1E21"/>
+  <unicode hex="1E55"/>
+  <unicode hex="1E57"/>
+  <unicode hex="1E99"/>
+  <unicode hex="1EF3"/>
+  <unicode hex="1EF7"/>
+  <unicode hex="1EF9"/>
+
   <outline>
     <contour>
       <point x="30" y="660" type="line"/>

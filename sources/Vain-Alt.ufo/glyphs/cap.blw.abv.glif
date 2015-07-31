@@ -3,6 +3,17 @@
   <advance width="660"/>
   <unicode hex="1E08"/>
   <unicode hex="01EC"/>
+
+  <unicode hex="1E1C"/>
+  <unicode hex="1E38"/>
+  <unicode hex="1E39"/>
+  <unicode hex="1E5C"/>
+  <unicode hex="1E68"/>
+  <unicode hex="1EAC"/>
+  <unicode hex="1EB6"/>
+  <unicode hex="1EC6"/>
+  <unicode hex="1ED8"/>
+  
   <outline>
     <contour>
       <point x="30" y="900" type="line"/>

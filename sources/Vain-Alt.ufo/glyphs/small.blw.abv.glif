@@ -4,6 +4,17 @@
   <unicode hex="012F"/>
   <unicode hex="1E09"/>
   <unicode hex="01ED"/>
+
+  <unicode hex="1E1D"/>
+  <unicode hex="1E2D"/>
+  <unicode hex="1E5D"/>
+  <unicode hex="1E69"/>
+  <unicode hex="1EAD"/>
+  <unicode hex="1EB7"/>
+  <unicode hex="1EC7"/>
+  <unicode hex="1ECB"/>
+  <unicode hex="1ED9"/>
+
   <outline>
     <contour>
       <point x="30" y="660" type="line"/>

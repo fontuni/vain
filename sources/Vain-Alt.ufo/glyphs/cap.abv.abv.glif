@@ -11,6 +11,35 @@
   <unicode hex="022A"/>
   <unicode hex="022C"/>
   <unicode hex="0230"/>
+
+  <unicode hex="1E14"/>
+  <unicode hex="1E16"/>
+  <unicode hex="1E2E"/>
+  <unicode hex="1E4C"/>
+  <unicode hex="1E4E"/>
+  <unicode hex="1E50"/>
+  <unicode hex="1E52"/>
+  <unicode hex="1E64"/>
+  <unicode hex="1E66"/>
+  <unicode hex="1E78"/>
+  <unicode hex="1E7A"/>
+  <unicode hex="1EA4"/>
+  <unicode hex="1EA6"/>
+  <unicode hex="1EA8"/>
+  <unicode hex="1EAA"/>
+  <unicode hex="1EAE"/>
+  <unicode hex="1EB0"/>
+  <unicode hex="1EB2"/>
+  <unicode hex="1EB4"/>
+  <unicode hex="1EBE"/>
+  <unicode hex="1EC0"/>
+  <unicode hex="1EC2"/>
+  <unicode hex="1EC4"/>
+  <unicode hex="1ED0"/>
+  <unicode hex="1ED2"/>
+  <unicode hex="1ED4"/>
+  <unicode hex="1ED6"/>
+  
   <outline>
     <contour>
       <point x="30" y="1140" type="line"/>

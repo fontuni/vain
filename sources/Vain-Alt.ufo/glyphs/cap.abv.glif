@@ -103,6 +103,56 @@
   <unicode hex="022E"/>
   <unicode hex="0232"/>
 
+  <unicode hex="1E02"/>
+  <unicode hex="1E0A"/>
+  <unicode hex="1E1E"/>
+  <unicode hex="1E20"/>
+  <unicode hex="1E22"/>
+  <unicode hex="1E26"/>
+  <unicode hex="1E30"/>
+  <unicode hex="1E3E"/>
+  <unicode hex="1E40"/>
+  <unicode hex="1E44"/>
+  <unicode hex="1E54"/>
+  <unicode hex="1E56"/>
+  <unicode hex="1E58"/>
+  <unicode hex="1E60"/>
+  <unicode hex="1E6A"/>
+  <unicode hex="1E7C"/>
+  <unicode hex="1E80"/>
+  <unicode hex="1E82"/>
+  <unicode hex="1E84"/>
+  <unicode hex="1E86"/>
+  <unicode hex="1E8A"/>
+  <unicode hex="1E8C"/>
+  <unicode hex="1E8E"/>
+  <unicode hex="1E90"/>
+  <unicode hex="1EA2"/>
+  <unicode hex="1EBA"/>
+  <unicode hex="1EBC"/>
+  <unicode hex="1EC8"/>
+  <unicode hex="1ECE"/>
+  <unicode hex="1EDA"/>
+  <unicode hex="1EDC"/>
+  <unicode hex="1EDE"/>
+  <unicode hex="1EE0"/>
+  <unicode hex="1EE6"/>
+  <unicode hex="1EE8"/>
+  <unicode hex="1EEA"/>
+  <unicode hex="1EEC"/>
+  <unicode hex="1EEE"/>
+  <unicode hex="1EF2"/>
+  <unicode hex="1EF6"/>
+  <unicode hex="1EF8"/>
+
+  <unicode hex="1E03"/>
+  <unicode hex="1E0B"/>
+  <unicode hex="1E1F"/>
+  <unicode hex="1E23"/>
+  <unicode hex="1E27"/>
+  <unicode hex="1E31"/>
+  <unicode hex="1E9B"/>
+
   <outline>
     <contour>
       <point x="30" y="900" type="line"/>

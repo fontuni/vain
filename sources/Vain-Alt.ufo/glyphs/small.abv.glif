@@ -93,6 +93,43 @@
   <unicode hex="0227"/>
   <unicode hex="022F"/>
 
+  <unicode hex="1E3F"/>
+  <unicode hex="1E41"/>
+  <unicode hex="1E45"/>
+  <unicode hex="1E59"/>
+  <unicode hex="1E61"/>
+  <unicode hex="1E6B"/>
+  
+  <unicode hex="1E7D"/>
+  <unicode hex="1E81"/>
+  <unicode hex="1E83"/>
+  <unicode hex="1E85"/>
+  <unicode hex="1E87"/>
+  <unicode hex="1E8B"/>
+  <unicode hex="1E8D"/>
+  <unicode hex="1E8F"/>
+  <unicode hex="1E91"/>
+  <unicode hex="1E97"/>
+  <unicode hex="1E98"/>
+  <unicode hex="1E9A"/>
+  
+  
+  <unicode hex="1EA3"/>
+  <unicode hex="1EBB"/>
+  <unicode hex="1EBD"/>
+  <unicode hex="1EC9"/>
+  <unicode hex="1ECF"/>
+  <unicode hex="1EDB"/>
+  <unicode hex="1EDD"/>
+  <unicode hex="1EDF"/>
+  
+  <unicode hex="1EE1"/>
+  <unicode hex="1EE7"/>
+  <unicode hex="1EE9"/>
+  <unicode hex="1EEB"/>
+  <unicode hex="1EED"/>
+  <unicode hex="1EEF"/>
+
   <outline>
     <contour>
       <point x="30" y="660" type="line"/>

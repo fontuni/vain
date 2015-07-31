@@ -76,6 +76,14 @@
   <unicode hex="0EC3"/>
   <unicode hex="0EC4"/>
 
+  <unicode hex="1E9C"/>
+  <unicode hex="1E9D"/>
+  <unicode hex="1E9F"/>
+
+  
+  <unicode hex="1EFB"/>
+  <unicode hex="1EFD"/>
+
   <unicode hex="FB01"/>
   <unicode hex="FB02"/>
   <outline>

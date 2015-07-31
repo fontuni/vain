@@ -1,5 +1,7 @@
 languagesystem DFLT dflt;
 languagesystem latn dflt;
+languagesystem thai dflt;
+languagesystem lao dflt;
 
 
 # GSUB 
@@ -25,18 +27,9 @@ lookup compose.ccmp {
 
 } compose.ccmp;
 
-#lookup decompose.ccmp {
-#  lookupflag 0;
-    #sub \IJ by \cap \cap;
-    #sub \ij by \small.abv \small.desc.abv;
-    #sub \uniFB01 by \small.asc \small.abv;
-    #sub \uniFB02 by \small.asc \small.asc;
-
-#} decompose.ccmp;
 
 feature ccmp {
   lookup compose.ccmp;
-  #lookup decompose.ccmp;
 } ccmp;
 
 

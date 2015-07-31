@@ -73,15 +73,14 @@
   <unicode hex="0E26"/>
   <unicode hex="0E45"/>
   <unicode hex="0E46"/>
-
   <unicode hex="0E87"/>
   <unicode hex="0E8A"/>
-
   <unicode hex="0E96"/>
+  <unicode hex="0EAF"/>
   <unicode hex="0EBD"/>
   <unicode hex="0EC6"/>
-  
-  <unicode hex="0EAF"/>
+
+  <unicode hex="1EFF"/>
 
   <outline>
     <contour>

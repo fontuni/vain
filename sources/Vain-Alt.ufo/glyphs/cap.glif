@@ -93,6 +93,11 @@
 
   <unicode hex="0E3F"/>
 
+  <unicode hex="1E9E"/>
+  <unicode hex="1EFA"/>
+  <unicode hex="1EFC"/>
+  <unicode hex="1EFE"/>
+
   <outline>
     <contour>
       <point x="30" y="0" type="line"/>
