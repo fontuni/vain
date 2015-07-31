@@ -137,6 +137,50 @@
   <unicode hex="0E5A"/>
   <unicode hex="0E5B"/>
 
+  <unicode hex="0E81"/>
+  <unicode hex="0E82"/>
+  <unicode hex="0E84"/>
+  <unicode hex="0E88"/>
+  <unicode hex="0E8D"/>
+  <unicode hex="0E94"/>
+  <unicode hex="0E95"/>
+  <unicode hex="0E97"/>
+  <unicode hex="0E99"/>
+  <unicode hex="0E9A"/>
+  <unicode hex="0E9C"/>
+  <unicode hex="0E9E"/>
+  <unicode hex="0EA1"/>
+  <unicode hex="0EA3"/>
+  <unicode hex="0EA5"/>
+  <unicode hex="0EA7"/>
+  <unicode hex="0EAA"/>
+  <unicode hex="0EAB"/>
+  <unicode hex="0EAD"/>
+  <unicode hex="0EAE"/>
+
+  
+  <unicode hex="0EB0"/>
+  <unicode hex="0EB2"/>
+  <unicode hex="0EB3"/>
+  <unicode hex="0EC0"/>
+  <unicode hex="0EC1"/>
+
+  <unicode hex="0ED0"/>
+  <unicode hex="0ED1"/>
+  <unicode hex="0ED2"/>
+  <unicode hex="0ED3"/>
+  <unicode hex="0ED4"/>
+  <unicode hex="0ED5"/>
+  <unicode hex="0ED6"/>
+  <unicode hex="0ED7"/>
+  <unicode hex="0ED8"/>
+  <unicode hex="0ED9"/>
+
+  <unicode hex="0EDC"/>
+  <unicode hex="0EDD"/>
+  <unicode hex="0EDE"/>
+  <unicode hex="0EDF"/>
+  
   <outline>
     <contour>
       <point x="30" y="0" type="line"/>

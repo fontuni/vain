@@ -74,6 +74,15 @@
   <unicode hex="0E45"/>
   <unicode hex="0E46"/>
 
+  <unicode hex="0E87"/>
+  <unicode hex="0E8A"/>
+
+  <unicode hex="0E96"/>
+  <unicode hex="0EBD"/>
+  <unicode hex="0EC6"/>
+  
+  <unicode hex="0EAF"/>
+
   <outline>
     <contour>
       <point x="30" y="-240" type="line"/>

@@ -52,6 +52,11 @@
   <unicode hex="0E38"/>
   <unicode hex="0E39"/>
   <unicode hex="0E3A"/>
+
+  <unicode hex="0EB8"/>
+  <unicode hex="0EB9"/>
+  <unicode hex="0EBC"/>
+
   <outline>
     <contour>
       <point x="-630" y="-240" type="line"/>
