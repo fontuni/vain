@@ -1,0 +1,645 @@
+SplineFontDB: 3.0
+FontName: Vain-Alt
+FullName: Vain Alt
+FamilyName: Vain Alt
+Weight: Regular
+Copyright: Copyright (c) 2015, sungsit
+Version: 1
+StyleMapFamilyName: 
+ItalicAngle: 0
+UnderlinePosition: -60
+UnderlineWidth: 30
+Ascent: 960
+Descent: 240
+InvalidEm: 0
+UFOAscent: 960
+UFODescent: -240
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1438367993
+ModificationTime: 1438367993
+PfmFamily: 16
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 108
+VLineGap: 0
+OS2TypoAscent: 960
+OS2TypoAOffset: 0
+OS2TypoDescent: -240
+OS2TypoDOffset: 0
+OS2TypoLinegap: 108
+OS2WinAscent: 840
+OS2WinAOffset: 0
+OS2WinDescent: 0
+OS2WinDOffset: 0
+HheadAscent: 840
+HheadAOffset: 0
+HheadDescent: 0
+HheadDOffset: 0
+OS2Vendor: 'FUni'
+Lookup: 4 0 0 "compose.ccmp" { "compose.ccmp subtable"  } ['ccmp' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 260 0 0 "blw.mark" { "blw.mark subtable"  } ['mark' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 260 0 0 "abv.mark" { "abv.mark subtable"  } ['mark' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+DEI: 91125
+LangName: 1033 "Copyright (c) 2015, sungsit" "" "" "" "" "Version "
+Encoding: Custom
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 17 9
+AnchorClass2: "blw.mark" "blw.mark subtable" "abv.mark" "abv.mark subtable" 
+BeginChars: 26 26
+
+StartChar: zwsp
+Encoding: 0 0 0
+AltUni2: 000358.ffffffff.0 00034f.ffffffff.0 000338.ffffffff.0 000337.ffffffff.0 000336.ffffffff.0 000335.ffffffff.0 000334.ffffffff.0 00031b.ffffffff.0
+GlifName: zwsp
+Width: 0
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: .notdef
+Encoding: 1 -1 1
+GlifName: _notdef
+Width: 660
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+30 0 m 257
+ 30 600 l 257
+ 630 600 l 257
+ 630 0 l 257
+ 30 0 l 257
+90 60 m 257
+ 570 60 l 257
+ 570 540 l 257
+ 90 540 l 257
+ 90 60 l 257
+EndSplineSet
+EndChar
+
+StartChar: nonbreakingreturn
+Encoding: 2 13 2
+AltUni2: 0000a0.ffffffff.0 000020.ffffffff.0
+GlifName: space
+Width: 330
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: cap
+Encoding: 3 65 3
+AltUni2: 000298.ffffffff.0 00024e.ffffffff.0 00024c.ffffffff.0 000246.ffffffff.0 000245.ffffffff.0 000244.ffffffff.0 000243.ffffffff.0 000241.ffffffff.0 00023e.ffffffff.0 00023d.ffffffff.0 00023b.ffffffff.0 00023a.ffffffff.0 000222.ffffffff.0 0001f6.ffffffff.0 0001f2.ffffffff.0 0001f1.ffffffff.0 0001e4.ffffffff.0 0001ca.ffffffff.0 0001c7.ffffffff.0 0001c5.ffffffff.0 0001c4.ffffffff.0 0001bc.ffffffff.0 0001bb.ffffffff.0 0001b8.ffffffff.0 0001b7.ffffffff.0 0001b5.ffffffff.0 0001b3.ffffffff.0 0001b2.ffffffff.0 0001b1.ffffffff.0 0001af.ffffffff.0 0001ac.ffffffff.0 0001a9.ffffffff.0 0001a7.ffffffff.0 0001a4.ffffffff.0 0001a2.ffffffff.0 0001a0.ffffffff.0 00019f.ffffffff.0 00019c.ffffffff.0 000198.ffffffff.0 000193.ffffffff.0 000190.ffffffff.0 00018f.ffffffff.0 00018e.ffffffff.0 00018a.ffffffff.0 000189.ffffffff.0 000187.ffffffff.0 000186.ffffffff.0 000182.ffffffff.0 000181.ffffffff.0 000166.ffffffff.0 000152.ffffffff.0 000141.ffffffff.0 00013f.ffffffff.0 00013d.ffffffff.0 000132.ffffffff.0 000126.ffffffff.0 000110.ffffffff.0 0000de.ffffffff.0 0000d8.ffffffff.0 0000d0.ffffffff.0 0000c6.ffffffff.0 00005a.ffffffff.0 000059.ffffffff.0 000058.ffffffff.0 000057.ffffffff.0 000056.ffffffff.0 000055.ffffffff.0 000054.ffffffff.0 000053.ffffffff.0 000052.ffffffff.0 000051.ffffffff.0 000050.ffffffff.0 00004f.ffffffff.0 00004e.ffffffff.0 00004d.ffffffff.0 00004c.ffffffff.0 00004b.ffffffff.0 00004a.ffffffff.0 000049.ffffffff.0 000048.ffffffff.0 000047.ffffffff.0 000046.ffffffff.0 000045.ffffffff.0 000044.ffffffff.0 000043.ffffffff.0 000042.ffffffff.0
+GlifName: cap
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 240 basechar 0
+AnchorPoint: "blw.mark" 660 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 0 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: cap.blw
+Encoding: 4 199 4
+AltUni2: 000228.ffffffff.0 00021a.ffffffff.0 000218.ffffffff.0 0001ea.ffffffff.0 000172.ffffffff.0 000162.ffffffff.0 00015e.ffffffff.0 000156.ffffffff.0 000145.ffffffff.0 00013b.ffffffff.0 000136.ffffffff.0 00012e.ffffffff.0 000122.ffffffff.0 000118.ffffffff.0 000104.ffffffff.0
+GlifName: cap.blw
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 240 basechar 0
+AnchorPoint: "blw.mark" 660 -240 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 -240 m 257
+ 30 -60 l 257
+ 630 -60 l 257
+ 630 -240 l 257
+ 30 -240 l 257
+30 0 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+Ligature2: "compose.ccmp subtable" cap comb.blw
+EndChar
+
+StartChar: cap.blw.abv
+Encoding: 5 7688 5
+AltUni2: 0001ec.ffffffff.0
+GlifName: cap.blw.abv
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 480 basechar 0
+AnchorPoint: "blw.mark" 660 -240 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 900 m 257
+ 30 1080 l 257
+ 630 1080 l 257
+ 630 900 l 257
+ 30 900 l 257
+30 0 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 0 l 257
+ 30 0 l 257
+30 -240 m 257
+ 30 -60 l 257
+ 630 -60 l 257
+ 630 -240 l 257
+ 30 -240 l 257
+EndSplineSet
+Ligature2: "compose.ccmp subtable" cap.abv comb.blw
+Ligature2: "compose.ccmp subtable" cap.blw comb.abv
+EndChar
+
+StartChar: cap.abv
+Encoding: 6 192 6
+AltUni2: 000232.ffffffff.0 00022e.ffffffff.0 000226.ffffffff.0 00021f.ffffffff.0 00021e.ffffffff.0 000216.ffffffff.0 000214.ffffffff.0 000212.ffffffff.0 000210.ffffffff.0 00020e.ffffffff.0 00020c.ffffffff.0 00020a.ffffffff.0 000208.ffffffff.0 000206.ffffffff.0 000204.ffffffff.0 000202.ffffffff.0 000200.ffffffff.0 0001fe.ffffffff.0 0001fc.ffffffff.0 0001f8.ffffffff.0 0001f4.ffffffff.0 0001ee.ffffffff.0 0001e9.ffffffff.0 0001e8.ffffffff.0 0001e6.ffffffff.0 0001e2.ffffffff.0 0001d3.ffffffff.0 0001d1.ffffffff.0 0001cf.ffffffff.0 0001cd.ffffffff.0 00017d.ffffffff.0 00017b.ffffffff.0 000179.ffffffff.0 000178.ffffffff.0 000176.ffffffff.0 000174.ffffffff.0 000170.ffffffff.0 00016e.ffffffff.0 00016c.ffffffff.0 00016a.ffffffff.0 000168.ffffffff.0 000164.ffffffff.0 000160.ffffffff.0 00015c.ffffffff.0 00015a.ffffffff.0 000158.ffffffff.0 000154.ffffffff.0 000150.ffffffff.0 00014e.ffffffff.0 00014c.ffffffff.0 000147.ffffffff.0 000143.ffffffff.0 000139.ffffffff.0 000134.ffffffff.0 000130.ffffffff.0 00012c.ffffffff.0 00012a.ffffffff.0 000128.ffffffff.0 000124.ffffffff.0 000120.ffffffff.0 00011e.ffffffff.0 00011c.ffffffff.0 00011a.ffffffff.0 000116.ffffffff.0 000114.ffffffff.0 000112.ffffffff.0 00010e.ffffffff.0 00010c.ffffffff.0 00010a.ffffffff.0 000108.ffffffff.0 000106.ffffffff.0 000102.ffffffff.0 000100.ffffffff.0 0000dd.ffffffff.0 0000dc.ffffffff.0 0000db.ffffffff.0 0000da.ffffffff.0 0000d9.ffffffff.0 0000d6.ffffffff.0 0000d5.ffffffff.0 0000d4.ffffffff.0 0000d3.ffffffff.0 0000d2.ffffffff.0 0000d1.ffffffff.0 0000cf.ffffffff.0 0000ce.ffffffff.0 0000cd.ffffffff.0 0000cc.ffffffff.0 0000cb.ffffffff.0 0000ca.ffffffff.0 0000c9.ffffffff.0 0000c8.ffffffff.0 0000c5.ffffffff.0 0000c4.ffffffff.0 0000c3.ffffffff.0 0000c2.ffffffff.0 0000c1.ffffffff.0
+GlifName: cap.abv
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 480 basechar 0
+AnchorPoint: "blw.mark" 660 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 900 m 257
+ 30 1080 l 257
+ 630 1080 l 257
+ 630 900 l 257
+ 30 900 l 257
+30 0 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+Ligature2: "compose.ccmp subtable" cap comb.abv
+EndChar
+
+StartChar: cap.abv.abv
+Encoding: 7 469 7
+AltUni2: 000230.ffffffff.0 00022c.ffffffff.0 00022a.ffffffff.0 0001fa.ffffffff.0 0001e0.ffffffff.0 0001de.ffffffff.0 0001db.ffffffff.0 0001d9.ffffffff.0 0001d7.ffffffff.0
+GlifName: cap.abv.abv
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 720 basechar 0
+AnchorPoint: "blw.mark" 660 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 1140 m 257
+ 30 1320 l 257
+ 630 1320 l 257
+ 630 1140 l 257
+ 30 1140 l 257
+30 900 m 257
+ 30 1080 l 257
+ 630 1080 l 257
+ 630 900 l 257
+ 30 900 l 257
+30 0 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+Ligature2: "compose.ccmp subtable" cap comb.abv.abv
+Ligature2: "compose.ccmp subtable" cap comb.abv comb.abv
+Ligature2: "compose.ccmp subtable" cap.abv comb.abv
+EndChar
+
+StartChar: cap.desc
+Encoding: 8 40 8
+AltUni2: 00014a.ffffffff.0 000297.ffffffff.0 00024a.ffffffff.0 000248.ffffffff.0 000224.ffffffff.0 000220.ffffffff.0 00021c.ffffffff.0 0001f7.ffffffff.0 0001cb.ffffffff.0 0001c8.ffffffff.0 0001ae.ffffffff.0 00019d.ffffffff.0 000194.ffffffff.0 000191.ffffffff.0 0000fe.ffffffff.0 0000b6.ffffffff.0 0000a9.ffffffff.0 0000a7.ffffffff.0 00007d.ffffffff.0 00007b.ffffffff.0 00005d.ffffffff.0 00005b.ffffffff.0 000029.ffffffff.0
+GlifName: cap.desc
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 240 basechar 0
+AnchorPoint: "blw.mark" 660 -240 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 -240 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 -240 l 257
+ 30 -240 l 257
+EndSplineSet
+EndChar
+
+StartChar: small
+Encoding: 9 97 9
+AltUni2: 0002ad.ffffffff.0 0002ac.ffffffff.0 0002a8.ffffffff.0 0002a6.ffffffff.0 00029f.ffffffff.0 00029c.ffffffff.0 00029a.ffffffff.0 000299.ffffffff.0 000291.ffffffff.0 00028f.ffffffff.0 00028d.ffffffff.0 00028c.ffffffff.0 00028b.ffffffff.0 00028a.ffffffff.0 000289.ffffffff.0 000281.ffffffff.0 000280.ffffffff.0 00027f.ffffffff.0 00027e.ffffffff.0 000279.ffffffff.0 000277.ffffffff.0 000276.ffffffff.0 000275.ffffffff.0 000274.ffffffff.0 00026f.ffffffff.0 00026a.ffffffff.0 000269.ffffffff.0 000268.ffffffff.0 000264.ffffffff.0 000262.ffffffff.0 00025e.ffffffff.0 00025d.ffffffff.0 00025c.ffffffff.0 00025b.ffffffff.0 00025a.ffffffff.0 000259.ffffffff.0 000258.ffffffff.0 000255.ffffffff.0 000254.ffffffff.0 000252.ffffffff.0 000251.ffffffff.0 000250.ffffffff.0 00024d.ffffffff.0 000247.ffffffff.0 000242.ffffffff.0 00023c.ffffffff.0 000236.ffffffff.0 000235.ffffffff.0 0001dd.ffffffff.0 0001b6.ffffffff.0 0001b0.ffffffff.0 0001a8.ffffffff.0 0001a1.ffffffff.0 000167.ffffffff.0 000153.ffffffff.0 000149.ffffffff.0 000138.ffffffff.0 000131.ffffffff.0 0000f8.ffffffff.0 0000e6.ffffffff.0 00007a.ffffffff.0 000078.ffffffff.0 000077.ffffffff.0 000076.ffffffff.0 000075.ffffffff.0 000074.ffffffff.0 000073.ffffffff.0 000072.ffffffff.0 00006f.ffffffff.0 00006e.ffffffff.0 00006d.ffffffff.0 000065.ffffffff.0 000063.ffffffff.0
+GlifName: small
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 0 basechar 0
+AnchorPoint: "blw.mark" 660 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 0 m 257
+ 30 600 l 257
+ 630 600 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: small.blw
+Encoding: 10 231 10
+AltUni2: 000229.ffffffff.0 00021b.ffffffff.0 000219.ffffffff.0 0001eb.ffffffff.0 000173.ffffffff.0 000163.ffffffff.0 00015f.ffffffff.0 000157.ffffffff.0 000146.ffffffff.0 000119.ffffffff.0 000105.ffffffff.0
+GlifName: small.blw
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 0 basechar 0
+AnchorPoint: "blw.mark" 660 -240 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 -240 m 257
+ 30 -60 l 257
+ 630 -60 l 257
+ 630 -240 l 257
+ 30 -240 l 257
+30 0 m 257
+ 30 600 l 257
+ 630 600 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+Ligature2: "compose.ccmp subtable" small comb.blw
+EndChar
+
+StartChar: small.blw.abv
+Encoding: 11 303 11
+AltUni2: 0001ed.ffffffff.0 001e09.ffffffff.0
+GlifName: small.blw.abv
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 240 basechar 0
+AnchorPoint: "blw.mark" 660 -240 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 660 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 660 l 257
+ 30 660 l 257
+30 0 m 257
+ 30 600 l 257
+ 630 600 l 257
+ 630 0 l 257
+ 30 0 l 257
+30 -240 m 257
+ 30 -60 l 257
+ 630 -60 l 257
+ 630 -240 l 257
+ 30 -240 l 257
+EndSplineSet
+Ligature2: "compose.ccmp subtable" small.abv comb.blw
+Ligature2: "compose.ccmp subtable" small.blw comb.abv
+EndChar
+
+StartChar: small.abv
+Encoding: 12 105 12
+AltUni2: 00022f.ffffffff.0 000227.ffffffff.0 000217.ffffffff.0 000215.ffffffff.0 000213.ffffffff.0 000211.ffffffff.0 00020f.ffffffff.0 00020d.ffffffff.0 00020b.ffffffff.0 000209.ffffffff.0 000207.ffffffff.0 000205.ffffffff.0 000203.ffffffff.0 000201.ffffffff.0 0001ff.ffffffff.0 0001fd.ffffffff.0 0001f9.ffffffff.0 0001f5.ffffffff.0 0001e7.ffffffff.0 0001e3.ffffffff.0 0001d4.ffffffff.0 0001d2.ffffffff.0 0001d0.ffffffff.0 0001ce.ffffffff.0 00017e.ffffffff.0 00017c.ffffffff.0 00017a.ffffffff.0 000177.ffffffff.0 000175.ffffffff.0 000171.ffffffff.0 00016f.ffffffff.0 00016d.ffffffff.0 00016b.ffffffff.0 000169.ffffffff.0 000165.ffffffff.0 000161.ffffffff.0 00015d.ffffffff.0 00015b.ffffffff.0 000159.ffffffff.0 000155.ffffffff.0 000151.ffffffff.0 00014f.ffffffff.0 00014d.ffffffff.0 000148.ffffffff.0 000144.ffffffff.0 00012d.ffffffff.0 00012b.ffffffff.0 000129.ffffffff.0 000125.ffffffff.0 000123.ffffffff.0 000121.ffffffff.0 00011f.ffffffff.0 00011d.ffffffff.0 00011b.ffffffff.0 000117.ffffffff.0 000115.ffffffff.0 000113.ffffffff.0 00010d.ffffffff.0 00010b.ffffffff.0 000109.ffffffff.0 000107.ffffffff.0 000103.ffffffff.0 000101.ffffffff.0 0000ff.ffffffff.0 0000fd.ffffffff.0 0000fc.ffffffff.0 0000fb.ffffffff.0 0000fa.ffffffff.0 0000f9.ffffffff.0 0000f6.ffffffff.0 0000f5.ffffffff.0 0000f4.ffffffff.0 0000f3.ffffffff.0 0000f2.ffffffff.0 0000f1.ffffffff.0 0000ef.ffffffff.0 0000ee.ffffffff.0 0000ed.ffffffff.0 0000ec.ffffffff.0 0000eb.ffffffff.0 0000ea.ffffffff.0 0000e9.ffffffff.0 0000e8.ffffffff.0 0000e5.ffffffff.0 0000e4.ffffffff.0 0000e3.ffffffff.0 0000e2.ffffffff.0 0000e1.ffffffff.0 0000e0.ffffffff.0
+GlifName: small.abv
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 240 basechar 0
+AnchorPoint: "blw.mark" 660 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 660 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 660 l 257
+ 30 660 l 257
+30 0 m 257
+ 30 600 l 257
+ 630 600 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+Ligature2: "compose.ccmp subtable" small comb.abv
+EndChar
+
+StartChar: small.abv.abv
+Encoding: 13 470 13
+AltUni2: 000231.ffffffff.0 00022d.ffffffff.0 00022b.ffffffff.0 0001fb.ffffffff.0 0001e1.ffffffff.0 0001df.ffffffff.0 0001dc.ffffffff.0 0001da.ffffffff.0 0001d8.ffffffff.0
+GlifName: small.abv.abv
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 480 basechar 0
+AnchorPoint: "blw.mark" 660 0 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 900 m 257
+ 30 1080 l 257
+ 630 1080 l 257
+ 630 900 l 257
+ 30 900 l 257
+30 660 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 660 l 257
+ 30 660 l 257
+30 0 m 257
+ 30 600 l 257
+ 630 600 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+Ligature2: "compose.ccmp subtable" small comb.abv.abv
+Ligature2: "compose.ccmp subtable" small comb.abv comb.abv
+Ligature2: "compose.ccmp subtable" small.abv comb.abv
+EndChar
+
+StartChar: small.desc
+Encoding: 14 103 14
+AltUni2: 0002af.ffffffff.0 0002ae.ffffffff.0 0002a9.ffffffff.0 0002a7.ffffffff.0 0002a4.ffffffff.0 0002a0.ffffffff.0 00029e.ffffffff.0 00029d.ffffffff.0 000293.ffffffff.0 000292.ffffffff.0 000290.ffffffff.0 000288.ffffffff.0 000287.ffffffff.0 000285.ffffffff.0 000284.ffffffff.0 000283.ffffffff.0 000282.ffffffff.0 00027d.ffffffff.0 00027c.ffffffff.0 00027b.ffffffff.0 000278.ffffffff.0 000273.ffffffff.0 000272.ffffffff.0 000271.ffffffff.0 000270.ffffffff.0 00026e.ffffffff.0 00026d.ffffffff.0 000267.ffffffff.0 000265.ffffffff.0 000263.ffffffff.0 000261.ffffffff.0 000260.ffffffff.0 00025f.ffffffff.0 000256.ffffffff.0 00024f.ffffffff.0 00024b.ffffffff.0 000249.ffffffff.0 000240.ffffffff.0 00023f.ffffffff.0 000239.ffffffff.0 000237.ffffffff.0 000225.ffffffff.0 00021d.ffffffff.0 0001e5.ffffffff.0 0001c9.ffffffff.0 0001bf.ffffffff.0 0001bd.ffffffff.0 0001ba.ffffffff.0 0001b9.ffffffff.0 0001b4.ffffffff.0 0001ab.ffffffff.0 0001aa.ffffffff.0 0001a5.ffffffff.0 0001a3.ffffffff.0 00019e.ffffffff.0 000192.ffffffff.0 00018d.ffffffff.0 00014b.ffffffff.0 0000b5.ffffffff.0 000079.ffffffff.0 000071.ffffffff.0 000070.ffffffff.0
+GlifName: small.desc
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 0 basechar 0
+AnchorPoint: "blw.mark" 660 -240 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 -240 m 257
+ 30 600 l 257
+ 630 600 l 257
+ 630 -240 l 257
+ 30 -240 l 257
+EndSplineSet
+EndChar
+
+StartChar: small.desc.abv
+Encoding: 15 106 15
+AltUni2: 000233.ffffffff.0 0001f0.ffffffff.0 0001ef.ffffffff.0 0001cc.ffffffff.0 0001c9.ffffffff.0 0001c6.ffffffff.0 000135.ffffffff.0 000133.ffffffff.0 0000bf.ffffffff.0 0000a1.ffffffff.0
+GlifName: small.desc.abv
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 240 basechar 0
+AnchorPoint: "blw.mark" 660 -240 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 660 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 660 l 257
+ 30 660 l 257
+30 -240 m 257
+ 30 600 l 257
+ 630 600 l 257
+ 630 -240 l 257
+ 30 -240 l 257
+EndSplineSet
+EndChar
+
+StartChar: small.asc
+Encoding: 16 98 16
+AltUni2: 00fb02.ffffffff.0 00fb01.ffffffff.0 0002ab.ffffffff.0 0002aa.ffffffff.0 0002a5.ffffffff.0 0002a3.ffffffff.0 0002a2.ffffffff.0 0002a1.ffffffff.0 00029b.ffffffff.0 000296.ffffffff.0 000295.ffffffff.0 000294.ffffffff.0 00028e.ffffffff.0 000286.ffffffff.0 00027a.ffffffff.0 00026c.ffffffff.0 00026b.ffffffff.0 000266.ffffffff.0 000257.ffffffff.0 000253.ffffffff.0 000238.ffffffff.0 000234.ffffffff.0 000223.ffffffff.0 000221.ffffffff.0 0001f3.ffffffff.0 0001c2.ffffffff.0 0001c1.ffffffff.0 0001c0.ffffffff.0 0001be.ffffffff.0 0001ad.ffffffff.0 0001a6.ffffffff.0 00019b.ffffffff.0 00019a.ffffffff.0 000199.ffffffff.0 000197.ffffffff.0 000196.ffffffff.0 000195.ffffffff.0 00018c.ffffffff.0 00018b.ffffffff.0 000188.ffffffff.0 000185.ffffffff.0 000184.ffffffff.0 000183.ffffffff.0 000180.ffffffff.0 00017f.ffffffff.0 000142.ffffffff.0 000140.ffffffff.0 00013e.ffffffff.0 000127.ffffffff.0 000111.ffffffff.0 00010f.ffffffff.0 0000f0.ffffffff.0 0000df.ffffffff.0 00006c.ffffffff.0 00006b.ffffffff.0 000068.ffffffff.0 000066.ffffffff.0 000064.ffffffff.0
+GlifName: small.asc
+Width: 660
+VWidth: 0
+Flags: W
+AnchorPoint: "abv.mark" 660 240 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+30 0 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: small.asc.blw
+Encoding: 17 311 17
+AltUni2: 00013c.ffffffff.0 00013a.ffffffff.0
+GlifName: small.asc.blw
+Width: 660
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+30 -240 m 257
+ 30 -60 l 257
+ 630 -60 l 257
+ 630 -240 l 257
+ 30 -240 l 257
+30 0 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: number
+Encoding: 18 35 18
+AltUni2: 0000be.ffffffff.0 0000bd.ffffffff.0 0000bc.ffffffff.0 0000a6.ffffffff.0 0000a5.ffffffff.0 0000a4.ffffffff.0 0000a3.ffffffff.0 0000a2.ffffffff.0 00007c.ffffffff.0 00005c.ffffffff.0 000040.ffffffff.0 000039.ffffffff.0 000038.ffffffff.0 000037.ffffffff.0 000036.ffffffff.0 000035.ffffffff.0 000034.ffffffff.0 000033.ffffffff.0 000032.ffffffff.0 000031.ffffffff.0 000030.ffffffff.0 00002f.ffffffff.0 000026.ffffffff.0 000025.ffffffff.0 000024.ffffffff.0
+GlifName: number
+Width: 660
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+30 0 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: exclam
+Encoding: 19 33 19
+AltUni2: 0001c3.ffffffff.0 00003f.ffffffff.0
+GlifName: exclam
+Width: 660
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+30 0 m 257
+ 30 180 l 257
+ 630 180 l 257
+ 630 0 l 257
+ 30 0 l 257
+30 240 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 240 l 257
+ 30 240 l 257
+EndSplineSet
+EndChar
+
+StartChar: mod.abv
+Encoding: 20 34 20
+AltUni2: 0002fa.ffffffff.0 0002f9.ffffffff.0 0002f6.ffffffff.0 0002f5.ffffffff.0 0002f4.ffffffff.0 0002ee.ffffffff.0 0002ed.ffffffff.0 0002eb.ffffffff.0 0002ea.ffffffff.0 0002e4.ffffffff.0 0002e3.ffffffff.0 0002e2.ffffffff.0 0002e1.ffffffff.0 0002e0.ffffffff.0 0002df.ffffffff.0 0002de.ffffffff.0 0002dd.ffffffff.0 0002dc.ffffffff.0 0002da.ffffffff.0 0002d9.ffffffff.0 0002d8.ffffffff.0 0002cb.ffffffff.0 0002ca.ffffffff.0 0002c9.ffffffff.0 0002c8.ffffffff.0 0002c7.ffffffff.0 0002c6.ffffffff.0 0002c5.ffffffff.0 0002c4.ffffffff.0 0002c3.ffffffff.0 0002c2.ffffffff.0 0002c1.ffffffff.0 0002c0.ffffffff.0 0002bf.ffffffff.0 0002be.ffffffff.0 0002bd.ffffffff.0 0002bc.ffffffff.0 0002bb.ffffffff.0 0002ba.ffffffff.0 0002b9.ffffffff.0 0002b8.ffffffff.0 0002b7.ffffffff.0 0002b6.ffffffff.0 0002b5.ffffffff.0 0002b4.ffffffff.0 0002b3.ffffffff.0 0002b2.ffffffff.0 0002b1.ffffffff.0 0002b0.ffffffff.0 0000ba.ffffffff.0 0000b9.ffffffff.0 0000b4.ffffffff.0 0000b3.ffffffff.0 0000b2.ffffffff.0 0000b0.ffffffff.0 0000af.ffffffff.0 0000ae.ffffffff.0 0000aa.ffffffff.0 0000a8.ffffffff.0 000060.ffffffff.0 00005e.ffffffff.0 00002d.ffffffff.0 00002a.ffffffff.0 000027.ffffffff.0
+GlifName: mod.abv
+Width: 660
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+30 660 m 257
+ 30 840 l 257
+ 630 840 l 257
+ 630 660 l 257
+ 30 660 l 257
+EndSplineSet
+EndChar
+
+StartChar: mod.mid
+Encoding: 21 43 21
+AltUni2: 0002f8.ffffffff.0 0002e9.ffffffff.0 0002e8.ffffffff.0 0002e7.ffffffff.0 0002e6.ffffffff.0 0002e5.ffffffff.0 0002d7.ffffffff.0 0002d6.ffffffff.0 0002d5.ffffffff.0 0002d4.ffffffff.0 0002d3.ffffffff.0 0002d2.ffffffff.0 0002d1.ffffffff.0 0002d0.ffffffff.0 0000f7.ffffffff.0 0000d7.ffffffff.0 0000bb.ffffffff.0 0000b7.ffffffff.0 0000b1.ffffffff.0 0000ad.ffffffff.0 0000ac.ffffffff.0 0000ab.ffffffff.0 00007e.ffffffff.0 00003e.ffffffff.0 00003d.ffffffff.0 00003c.ffffffff.0 00003b.ffffffff.0 00003a.ffffffff.0
+GlifName: mod.mid
+Width: 660
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+30 330 m 257
+ 30 510 l 257
+ 630 510 l 257
+ 630 330 l 257
+ 30 330 l 257
+EndSplineSet
+EndChar
+
+StartChar: mod.blw
+Encoding: 22 44 22
+AltUni2: 0002ff.ffffffff.0 0002fe.ffffffff.0 0002fd.ffffffff.0 0002fc.ffffffff.0 0002fb.ffffffff.0 0002f7.ffffffff.0 0002f3.ffffffff.0 0002f2.ffffffff.0 0002f1.ffffffff.0 0002f0.ffffffff.0 0002ef.ffffffff.0 0002ec.ffffffff.0 0002db.ffffffff.0 0002cf.ffffffff.0 0002ce.ffffffff.0 0002cd.ffffffff.0 0002cc.ffffffff.0 0000b8.ffffffff.0 00005f.ffffffff.0 00002e.ffffffff.0
+GlifName: mod.blw
+Width: 660
+VWidth: 0
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+30 0 m 257
+ 30 180 l 257
+ 630 180 l 257
+ 630 0 l 257
+ 30 0 l 257
+EndSplineSet
+EndChar
+
+StartChar: comb.blw
+Encoding: 23 790 23
+AltUni2: 000362.ffffffff.0 00035f.ffffffff.0 00035c.ffffffff.0 00035a.ffffffff.0 000359.ffffffff.0 000356.ffffffff.0 000355.ffffffff.0 000354.ffffffff.0 000353.ffffffff.0 00034e.ffffffff.0 00034d.ffffffff.0 000349.ffffffff.0 000348.ffffffff.0 000347.ffffffff.0 000345.ffffffff.0 00033c.ffffffff.0 00033b.ffffffff.0 00033a.ffffffff.0 000339.ffffffff.0 000333.ffffffff.0 000332.ffffffff.0 000331.ffffffff.0 000330.ffffffff.0 00032f.ffffffff.0 00032e.ffffffff.0 00032d.ffffffff.0 00032c.ffffffff.0 00032b.ffffffff.0 00032a.ffffffff.0 000329.ffffffff.0 000328.ffffffff.0 000327.ffffffff.0 000326.ffffffff.0 000325.ffffffff.0 000324.ffffffff.0 000323.ffffffff.0 000322.ffffffff.0 000321.ffffffff.0 000320.ffffffff.0 00031f.ffffffff.0 00031e.ffffffff.0 00031d.ffffffff.0 00031c.ffffffff.0 000319.ffffffff.0 000318.ffffffff.0 000317.ffffffff.0
+GlifName: comb.blw
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "blw.mark" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-630 -240 m 257
+ -630 -60 l 257
+ -30 -60 l 257
+ -30 -240 l 257
+ -630 -240 l 257
+EndSplineSet
+EndChar
+
+StartChar: comb.abv
+Encoding: 24 768 24
+AltUni2: 00036f.ffffffff.0 00036e.ffffffff.0 00036d.ffffffff.0 00036c.ffffffff.0 00036b.ffffffff.0 00036a.ffffffff.0 000369.ffffffff.0 000368.ffffffff.0 000367.ffffffff.0 000366.ffffffff.0 000365.ffffffff.0 000364.ffffffff.0 000363.ffffffff.0 000362.ffffffff.0 000361.ffffffff.0 000360.ffffffff.0 00035e.ffffffff.0 00035d.ffffffff.0 00035b.ffffffff.0 000357.ffffffff.0 000352.ffffffff.0 000351.ffffffff.0 000350.ffffffff.0 00034c.ffffffff.0 00034b.ffffffff.0 00034a.ffffffff.0 000346.ffffffff.0 000344.ffffffff.0 000343.ffffffff.0 000342.ffffffff.0 000341.ffffffff.0 000340.ffffffff.0 00033f.ffffffff.0 00033e.ffffffff.0 00033d.ffffffff.0 00031a.ffffffff.0 000315.ffffffff.0 000314.ffffffff.0 000313.ffffffff.0 000312.ffffffff.0 000311.ffffffff.0 000310.ffffffff.0 00030f.ffffffff.0 00030e.ffffffff.0 00030d.ffffffff.0 00030c.ffffffff.0 00030b.ffffffff.0 00030a.ffffffff.0 000309.ffffffff.0 000308.ffffffff.0 000307.ffffffff.0 000306.ffffffff.0 000305.ffffffff.0 000304.ffffffff.0 000303.ffffffff.0 000302.ffffffff.0 000301.ffffffff.0
+GlifName: comb.abv
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "abv.mark" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-630 660 m 257
+ -630 840 l 257
+ -30 840 l 257
+ -30 660 l 257
+ -630 660 l 257
+EndSplineSet
+EndChar
+
+StartChar: comb.abv.abv
+Encoding: 25 7620 25
+AltUni2: 001dc7.ffffffff.0 001dc6.ffffffff.0 001dc5.ffffffff.0
+GlifName: comb.abv.abv
+Width: 0
+VWidth: 0
+GlyphClass: 4
+Flags: W
+AnchorPoint: "abv.mark" 0 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-630 900 m 257
+ -630 1080 l 257
+ -30 1080 l 257
+ -30 900 l 257
+ -630 900 l 257
+-630 660 m 257
+ -630 840 l 257
+ -30 840 l 257
+ -30 660 l 257
+ -630 660 l 257
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

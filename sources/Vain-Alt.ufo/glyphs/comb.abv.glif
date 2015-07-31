@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comb.abv" format="1">
+  <advance width="0"/>
+  <unicode hex="0300"/>
+  <unicode hex="0301"/>
+  <unicode hex="0302"/>
+  <unicode hex="0303"/>
+  <unicode hex="0304"/>
+  <unicode hex="0305"/>
+  <unicode hex="0306"/>
+  <unicode hex="0307"/>
+  <unicode hex="0308"/>
+  <unicode hex="0309"/>
+  <unicode hex="030A"/>
+  <unicode hex="030B"/>
+  <unicode hex="030C"/>
+  <unicode hex="030D"/>
+  <unicode hex="030C"/>
+  <unicode hex="030D"/>
+  <unicode hex="030E"/>
+  <unicode hex="030F"/>
+  <unicode hex="0310"/>
+  <unicode hex="0311"/>
+  <unicode hex="0312"/>
+  <unicode hex="0313"/>
+  <unicode hex="0314"/>
+  <unicode hex="0315"/>
+  <unicode hex="031A"/>
+  <unicode hex="033D"/>
+  <unicode hex="033E"/>
+  <unicode hex="033F"/>
+  <unicode hex="0340"/>
+  <unicode hex="0341"/>
+  <unicode hex="0342"/>
+  <unicode hex="0343"/>
+  <unicode hex="0344"/>
+  <unicode hex="0346"/>
+  <unicode hex="034A"/>
+  <unicode hex="034B"/>
+  <unicode hex="034C"/>
+  <unicode hex="0350"/>
+  <unicode hex="0351"/>
+  <unicode hex="0352"/>
+  <unicode hex="0357"/>
+  <unicode hex="035B"/>
+  <unicode hex="035D"/>
+  <unicode hex="035E"/>
+  <unicode hex="0360"/>
+  <unicode hex="0361"/>
+  <unicode hex="0362"/>
+  <unicode hex="0363"/>
+  <unicode hex="0364"/>
+  <unicode hex="0365"/>
+  <unicode hex="0366"/>
+  <unicode hex="0367"/>
+  <unicode hex="0368"/>
+  <unicode hex="0369"/>
+  <unicode hex="036A"/>
+  <unicode hex="036B"/>
+  <unicode hex="036C"/>
+  <unicode hex="036D"/>
+  <unicode hex="036E"/>
+  <unicode hex="036F"/>
+  <outline>
+    <contour>
+      <point x="-630" y="660" type="line"/>
+      <point x="-630" y="840" type="line"/>
+      <point x="-30" y="840" type="line"/>
+      <point x="-30" y="660" type="line"/>
+    </contour>
+  </outline>
+</glyph>

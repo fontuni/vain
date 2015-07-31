@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mod.blw" format="1">
+  <advance width="660"/>
+  <unicode hex="002C"/>
+  <unicode hex="002E"/>
+  <unicode hex="005F"/>
+  <unicode hex="00B8"/>
+
+  <unicode hex="02CC"/>
+  <unicode hex="02CD"/>
+  <unicode hex="02CE"/>
+  <unicode hex="02CF"/>
+  <unicode hex="02DB"/>
+  <unicode hex="02EC"/>
+  <unicode hex="02EF"/>
+
+  <unicode hex="02F0"/>
+  <unicode hex="02F1"/>
+  <unicode hex="02F2"/>
+  <unicode hex="02F3"/>
+  <unicode hex="02F7"/>
+  <unicode hex="02FB"/>
+  <unicode hex="02FC"/>
+  <unicode hex="02FD"/>
+  <unicode hex="02FE"/>
+  <unicode hex="02FF"/>
+
+  
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="180" type="line"/>
+      <point x="630" y="180" type="line"/>
+      <point x="630" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

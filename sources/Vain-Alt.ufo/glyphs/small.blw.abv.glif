@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="small.blw.abv" format="1">
+  <advance width="660"/>
+  <unicode hex="012F"/>
+  <unicode hex="1E09"/>
+  <unicode hex="01ED"/>
+  <outline>
+    <contour>
+      <point x="30" y="660" type="line"/>
+      <point x="30" y="840" type="line"/>
+      <point x="630" y="840" type="line"/>
+      <point x="630" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="600" type="line"/>
+      <point x="630" y="600" type="line"/>
+      <point x="630" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="-240" type="line"/>
+      <point x="30" y="-60" type="line"/>
+      <point x="630" y="-60" type="line"/>
+      <point x="630" y="-240" type="line"/>
+    </contour>
+  </outline>
+</glyph>

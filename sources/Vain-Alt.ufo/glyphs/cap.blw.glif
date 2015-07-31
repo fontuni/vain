@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cap.blw" format="1">
+  <advance width="660"/>
+  <unicode hex="00C7"/>
+  <unicode hex="0104"/>
+  <unicode hex="0118"/>
+  <unicode hex="0122"/>
+  <unicode hex="012E"/>
+  <unicode hex="0136"/>
+  <unicode hex="013B"/>
+  <unicode hex="0145"/>
+  <unicode hex="0156"/>
+  <unicode hex="015E"/>
+  <unicode hex="0162"/>
+  <unicode hex="0172"/>
+  <unicode hex="01EA"/>
+  <unicode hex="0218"/>
+  <unicode hex="021A"/>
+  <unicode hex="0228"/>
+
+  <outline>
+    <contour>
+      <point x="30" y="-240" type="line"/>
+      <point x="30" y="-60" type="line"/>
+      <point x="630" y="-60" type="line"/>
+      <point x="630" y="-240" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="840" type="line"/>
+      <point x="630" y="840" type="line"/>
+      <point x="630" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

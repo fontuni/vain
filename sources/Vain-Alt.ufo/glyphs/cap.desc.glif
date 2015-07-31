@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cap.desc" format="1">
+  <advance width="660"/>
+  <unicode hex="0028"/>
+  <unicode hex="0029"/>
+  <unicode hex="005B"/>
+  <unicode hex="005D"/>
+  <unicode hex="007B"/>
+  <unicode hex="007D"/>
+  <unicode hex="00A7"/>
+  <unicode hex="00A9"/>
+  <unicode hex="00B6"/>
+  <unicode hex="00FE"/>
+
+  <unicode hex="0191"/>
+  <unicode hex="0194"/>
+  <unicode hex="019D"/>
+  <unicode hex="01AE"/>
+  <unicode hex="01C8"/>
+  <unicode hex="01CB"/>
+  <unicode hex="01F7"/>
+  <unicode hex="021C"/>
+  <unicode hex="0220"/>
+  <unicode hex="0224"/>
+  <unicode hex="0248"/>
+  <unicode hex="024A"/>
+  <unicode hex="0297"/>
+
+  <unicode hex="014A"/>
+  <outline>
+    <contour>
+      <point x="30" y="-240" type="line"/>
+      <point x="30" y="840" type="line"/>
+      <point x="630" y="840" type="line"/>
+      <point x="630" y="-240" type="line"/>
+    </contour>
+  </outline>
+</glyph>

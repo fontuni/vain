@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="comb.blw" format="1">
+  <advance width="0"/>
+  <unicode hex="0316"/>
+  <unicode hex="0317"/>
+  <unicode hex="0318"/>
+  <unicode hex="0319"/>
+  <unicode hex="031C"/>
+  <unicode hex="031D"/>
+  <unicode hex="031E"/>
+  <unicode hex="031F"/>
+  <unicode hex="0320"/>
+  <unicode hex="0321"/>
+  <unicode hex="0322"/>
+  <unicode hex="0323"/>
+  <unicode hex="0324"/>
+  <unicode hex="0325"/>
+  <unicode hex="0326"/>
+  <unicode hex="0327"/>
+  <unicode hex="0328"/>
+  <unicode hex="0329"/>
+  <unicode hex="032A"/>
+  <unicode hex="032B"/>
+  <unicode hex="032C"/>
+  <unicode hex="032D"/>
+  <unicode hex="032E"/>
+  <unicode hex="032F"/>
+  <unicode hex="0330"/>
+  <unicode hex="0331"/>
+  <unicode hex="0332"/>
+  <unicode hex="0333"/>
+  <unicode hex="0339"/>
+  <unicode hex="033A"/>
+  <unicode hex="033B"/>
+  <unicode hex="033C"/>
+  <unicode hex="0345"/>
+  <unicode hex="0347"/>
+  <unicode hex="0348"/>
+  <unicode hex="0349"/>
+  <unicode hex="034D"/>
+  <unicode hex="034E"/>
+  <unicode hex="0353"/>
+  <unicode hex="0354"/>
+  <unicode hex="0355"/>
+  <unicode hex="0356"/>
+  <unicode hex="0359"/>
+  <unicode hex="035A"/>
+  <unicode hex="035C"/>
+  <unicode hex="035F"/>
+  <unicode hex="0362"/>
+  <outline>
+    <contour>
+      <point x="-630" y="-240" type="line"/>
+      <point x="-630" y="-60" type="line"/>
+      <point x="-30" y="-60" type="line"/>
+      <point x="-30" y="-240" type="line"/>
+    </contour>
+  </outline>
+</glyph>

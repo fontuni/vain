@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mod.abv" format="1">
+  <advance width="660"/>
+  <unicode hex="0022"/>
+  <unicode hex="0027"/>
+  <unicode hex="002A"/>
+  <unicode hex="002D"/>
+  <unicode hex="005E"/>
+  <unicode hex="0060"/>
+  <unicode hex="00A8"/>
+  <unicode hex="00AA"/>
+  <unicode hex="00AE"/>
+  <unicode hex="00AF"/>
+  <unicode hex="00B0"/>
+  <unicode hex="00B2"/>
+  <unicode hex="00B3"/>
+  <unicode hex="00B4"/>
+  <unicode hex="00B9"/>
+  <unicode hex="00BA"/>
+
+  <unicode hex="02B0"/>
+  <unicode hex="02B1"/>
+  <unicode hex="02B2"/>
+  <unicode hex="02B3"/>
+  <unicode hex="02B4"/>
+  <unicode hex="02B5"/>
+  <unicode hex="02B6"/>
+  <unicode hex="02B7"/>
+  <unicode hex="02B8"/>
+  <unicode hex="02B9"/>
+  <unicode hex="02BA"/>
+  <unicode hex="02BB"/>
+  <unicode hex="02BC"/>
+  <unicode hex="02BD"/>
+  <unicode hex="02BE"/>
+  <unicode hex="02BF"/>
+  <unicode hex="02C0"/>
+  <unicode hex="02C1"/>
+  <unicode hex="02C2"/>
+  <unicode hex="02C3"/>
+  <unicode hex="02C4"/>
+  <unicode hex="02C5"/>
+  <unicode hex="02C6"/>
+  <unicode hex="02C7"/>
+  <unicode hex="02C8"/>
+  <unicode hex="02C9"/>
+  <unicode hex="02CA"/>
+  <unicode hex="02CB"/>
+  <unicode hex="02D8"/>
+  <unicode hex="02D9"/>
+  <unicode hex="02DA"/>
+  <unicode hex="02DC"/>
+  <unicode hex="02DD"/>
+  <unicode hex="02DE"/>
+  <unicode hex="02DF"/>
+  <unicode hex="02E0"/>
+  <unicode hex="02E1"/>
+  <unicode hex="02E2"/>
+  <unicode hex="02E3"/>
+  <unicode hex="02E4"/>
+  <unicode hex="02EA"/>
+  <unicode hex="02EB"/>
+  <unicode hex="02ED"/>
+  <unicode hex="02EE"/>
+  <unicode hex="02F4"/>
+  <unicode hex="02F5"/>
+  <unicode hex="02F6"/>
+  <unicode hex="02F9"/>
+  <unicode hex="02FA"/>
+  
+  <outline>
+    <contour>
+      <point x="30" y="660" type="line"/>
+      <point x="30" y="840" type="line"/>
+      <point x="630" y="840" type="line"/>
+      <point x="630" y="660" type="line"/>
+    </contour>
+  </outline>
+</glyph>

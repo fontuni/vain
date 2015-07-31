@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="small.abv" format="1">
+  <advance width="660"/>
+  <unicode hex="0069"/>
+  <unicode hex="00E0"/>
+  <unicode hex="00E1"/>
+  <unicode hex="00E2"/>
+  <unicode hex="00E3"/>
+  <unicode hex="00E4"/>
+  <unicode hex="00E5"/>
+  <unicode hex="00E8"/>
+  <unicode hex="00E9"/>
+  <unicode hex="00EA"/>
+  <unicode hex="00EB"/>
+  <unicode hex="00EC"/>
+  <unicode hex="00ED"/>
+  <unicode hex="00EE"/>
+  <unicode hex="00EF"/>
+  <unicode hex="00F1"/>
+  <unicode hex="00F2"/>
+  <unicode hex="00F3"/>
+  <unicode hex="00F4"/>
+  <unicode hex="00F5"/>
+  <unicode hex="00F6"/>
+  <unicode hex="00F9"/>
+  <unicode hex="00FA"/>
+  <unicode hex="00FB"/>
+  <unicode hex="00FC"/>
+  <unicode hex="00FD"/>
+  <unicode hex="00FF"/>
+
+  <unicode hex="0101"/>
+  <unicode hex="0103"/>
+  <unicode hex="0107"/>
+  <unicode hex="0109"/>
+  <unicode hex="010B"/>
+  <unicode hex="010D"/>
+  <unicode hex="0113"/>
+  <unicode hex="0115"/>
+  <unicode hex="0117"/>
+  <unicode hex="011B"/>
+  <unicode hex="011D"/>
+  <unicode hex="011F"/>
+  <unicode hex="0121"/>
+  <unicode hex="0123"/>
+  <unicode hex="0125"/>
+  <unicode hex="0129"/>
+  <unicode hex="012B"/>
+  <unicode hex="012D"/>
+  <unicode hex="0144"/>
+  <unicode hex="0148"/>
+  <unicode hex="014D"/>
+  <unicode hex="014F"/>
+  <unicode hex="0151"/>
+  <unicode hex="0155"/>
+  <unicode hex="0159"/>
+  <unicode hex="015B"/>
+  <unicode hex="015D"/>
+  <unicode hex="0161"/>
+  <unicode hex="0165"/>
+  <unicode hex="0169"/>
+  <unicode hex="016B"/>
+  <unicode hex="016D"/>
+  <unicode hex="016F"/>
+  <unicode hex="0171"/>
+  <unicode hex="0175"/>
+  <unicode hex="0177"/>
+  <unicode hex="017A"/>
+  <unicode hex="017C"/>
+  <unicode hex="017E"/>
+  <unicode hex="01CE"/>
+  <unicode hex="01D0"/>
+  <unicode hex="01D2"/>
+  <unicode hex="01D4"/>
+  <unicode hex="01E3"/>
+  <unicode hex="01E7"/>
+  <unicode hex="01F5"/>
+  <unicode hex="01F9"/>
+  <unicode hex="01FD"/>
+  <unicode hex="01FF"/>
+  <unicode hex="0201"/>
+  <unicode hex="0203"/>
+  <unicode hex="0205"/>
+  <unicode hex="0207"/>
+  <unicode hex="0209"/>
+  <unicode hex="020B"/>
+  <unicode hex="020D"/>
+  <unicode hex="020F"/>
+  <unicode hex="0211"/>
+  <unicode hex="0213"/>
+  <unicode hex="0215"/>
+  <unicode hex="0217"/>
+  <unicode hex="0227"/>
+  <unicode hex="022F"/>
+
+  <outline>
+    <contour>
+      <point x="30" y="660" type="line"/>
+      <point x="30" y="840" type="line"/>
+      <point x="630" y="840" type="line"/>
+      <point x="630" y="660" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="600" type="line"/>
+      <point x="630" y="600" type="line"/>
+      <point x="630" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

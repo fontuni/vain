@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="small" format="1">
+  <advance width="660"/>
+  <unicode hex="0061"/>
+  <unicode hex="0063"/>
+  <unicode hex="0065"/>
+  <unicode hex="006D"/>
+  <unicode hex="006E"/>
+  <unicode hex="006F"/>
+  <unicode hex="0072"/>
+  <unicode hex="0073"/>
+  <unicode hex="0074"/>
+  <unicode hex="0075"/>
+  <unicode hex="0076"/>
+  <unicode hex="0077"/>
+  <unicode hex="0078"/>
+  <unicode hex="007A"/>
+  <unicode hex="00E6"/>
+  <unicode hex="00F8"/>
+
+  <unicode hex="0131"/>
+  <unicode hex="0138"/>
+  <unicode hex="0149"/>
+  <unicode hex="0153"/>
+  <unicode hex="0167"/>
+  <unicode hex="01A1"/>
+  <unicode hex="01A8"/>
+  <unicode hex="01B0"/>
+  <unicode hex="01B6"/>
+  <unicode hex="01DD"/>
+
+  <unicode hex="0235"/>
+  <unicode hex="0236"/>
+  <unicode hex="023C"/>
+  <unicode hex="0242"/>
+  <unicode hex="0247"/>
+  <unicode hex="024D"/>
+  <unicode hex="0250"/>
+  <unicode hex="0251"/>
+  <unicode hex="0252"/>
+  <unicode hex="0254"/>
+  <unicode hex="0255"/>
+  <unicode hex="0258"/>
+  <unicode hex="0259"/>
+  <unicode hex="025A"/>
+  <unicode hex="025B"/>
+  <unicode hex="025C"/>
+  <unicode hex="025D"/>
+  <unicode hex="025E"/>
+  <unicode hex="0262"/>
+  <unicode hex="0264"/>
+  <unicode hex="0268"/>
+  <unicode hex="0269"/>
+  <unicode hex="026A"/>
+  <unicode hex="026F"/>
+  <unicode hex="0274"/>
+  <unicode hex="0275"/>
+  <unicode hex="0276"/>
+  <unicode hex="0277"/>
+  <unicode hex="0279"/>
+  <unicode hex="027E"/>
+  <unicode hex="027F"/>
+  <unicode hex="0280"/>
+  <unicode hex="0281"/>
+  <unicode hex="0289"/>
+  <unicode hex="028A"/>
+  <unicode hex="028B"/>
+  <unicode hex="028C"/>
+  <unicode hex="028D"/>
+  <unicode hex="028F"/>
+  <unicode hex="0291"/>
+  <unicode hex="0299"/>
+  <unicode hex="029A"/>
+  <unicode hex="029C"/>
+  <unicode hex="029F"/>
+  <unicode hex="02A6"/>
+  <unicode hex="02A8"/>
+  <unicode hex="02AC"/>
+  <unicode hex="02AD"/>
+
+  <outline>
+    <contour>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="600" type="line"/>
+      <point x="630" y="600" type="line"/>
+      <point x="630" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
