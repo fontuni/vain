@@ -61,6 +61,13 @@
   <unicode hex="02AA"/>
   <unicode hex="02AB"/>
 
+  <unicode hex="0E1B"/>
+  <unicode hex="0E1D"/>
+  <unicode hex="0E1F"/>
+  <unicode hex="0E42"/>
+  <unicode hex="0E43"/>
+  <unicode hex="0E44"/>
+
   <unicode hex="FB01"/>
   <unicode hex="FB02"/>
   <outline>

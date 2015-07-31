@@ -78,6 +78,65 @@
   <unicode hex="02AC"/>
   <unicode hex="02AD"/>
 
+  <unicode hex="0E01"/>
+  <unicode hex="0E02"/>
+  <unicode hex="0E03"/>
+  <unicode hex="0E04"/>
+  <unicode hex="0E05"/>
+  <unicode hex="0E06"/>
+  <unicode hex="0E07"/>
+  <unicode hex="0E08"/>
+  <unicode hex="0E09"/>
+  <unicode hex="0E0A"/>
+  <unicode hex="0E0B"/>
+  <unicode hex="0E0C"/>
+  <unicode hex="0E0D"/>
+  <unicode hex="0E10"/>
+  <unicode hex="0E11"/>
+  <unicode hex="0E12"/>
+  <unicode hex="0E13"/>
+  <unicode hex="0E14"/>
+  <unicode hex="0E15"/>
+  <unicode hex="0E16"/>
+  <unicode hex="0E17"/>
+  <unicode hex="0E18"/>
+  <unicode hex="0E19"/>
+  <unicode hex="0E1A"/>
+  <unicode hex="0E1C"/>
+  <unicode hex="0E1E"/>
+  <unicode hex="0E20"/>
+  <unicode hex="0E21"/>
+  <unicode hex="0E22"/>
+  <unicode hex="0E23"/>
+  <unicode hex="0E25"/>
+  <unicode hex="0E27"/>
+  <unicode hex="0E28"/>
+  <unicode hex="0E29"/>
+  <unicode hex="0E2A"/>
+  <unicode hex="0E2B"/>
+  <unicode hex="0E2C"/>
+  <unicode hex="0E2D"/>
+  <unicode hex="0E2E"/>
+  <unicode hex="0E2F"/>
+  <unicode hex="0E30"/>
+  <unicode hex="0E32"/>
+  <unicode hex="0E33"/>
+  <unicode hex="0E40"/>
+  <unicode hex="0E41"/>
+  <unicode hex="0E4F"/>
+  <unicode hex="0E50"/>
+  <unicode hex="0E51"/>
+  <unicode hex="0E52"/>
+  <unicode hex="0E53"/>
+  <unicode hex="0E54"/>
+  <unicode hex="0E55"/>
+  <unicode hex="0E56"/>
+  <unicode hex="0E57"/>
+  <unicode hex="0E58"/>
+  <unicode hex="0E59"/>
+  <unicode hex="0E5A"/>
+  <unicode hex="0E5B"/>
+
   <outline>
     <contour>
       <point x="30" y="0" type="line"/>

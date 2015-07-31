@@ -48,6 +48,10 @@
   <unicode hex="035C"/>
   <unicode hex="035F"/>
   <unicode hex="0362"/>
+
+  <unicode hex="0E38"/>
+  <unicode hex="0E39"/>
+  <unicode hex="0E3A"/>
   <outline>
     <contour>
       <point x="-630" y="-240" type="line"/>

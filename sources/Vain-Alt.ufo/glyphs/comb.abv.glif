@@ -61,6 +61,21 @@
   <unicode hex="036D"/>
   <unicode hex="036E"/>
   <unicode hex="036F"/>
+
+  <unicode hex="0E31"/>
+  <unicode hex="0E34"/>
+  <unicode hex="0E35"/>
+  <unicode hex="0E36"/>
+  <unicode hex="0E37"/>
+  <unicode hex="0E47"/>
+  <unicode hex="0E48"/>
+  <unicode hex="0E49"/>
+  <unicode hex="0E4A"/>
+  <unicode hex="0E4B"/>
+  <unicode hex="0E4C"/>
+  <unicode hex="0E4D"/>
+  <unicode hex="0E4E"/>
+
   <outline>
     <contour>
       <point x="-630" y="660" type="line"/>

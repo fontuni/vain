@@ -91,6 +91,8 @@
   <unicode hex="024E"/>
   <unicode hex="0298"/>
 
+  <unicode hex="0E3F"/>
+
   <outline>
     <contour>
       <point x="30" y="0" type="line"/>
