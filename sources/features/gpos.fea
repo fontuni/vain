@@ -1,0 +1,67 @@
+#
+# Copyright (c) 2014-2015, Sungsit Sawaiwan (https://sungsit.com | gibbozer [at] gmail [dot] com).
+#
+# This Font Software is licensed under the SIL Open Font License, Version 1.1 (OFL).
+# You should have received a copy of the OFL License along with this file.
+# If not, see http://scripts.sil.org/OFL
+#
+
+include(classes.fea)
+
+lookup LatinAbove.mark {
+  lookupflag 0;
+
+  markClass [ @COMB.abv ] <anchor 0 0> @LatinAbove.mark;
+
+  # small normal
+  pos base [ uni25CC @small @small.desc @small.desc2 ] <anchor 660 0> mark @LatinAbove.mark;
+
+  # cap & small.asc
+  pos base [ @cap @cap.desc @small.asc @small.asc.desc ] <anchor 660 240> mark @LatinAbove.mark;
+
+  # cap.asc
+  pos base [ @cap.asc ] <anchor 660 480> mark @LatinAbove.mark;
+
+} LatinAbove.mark;
+
+lookup LatinBelow.mark {
+  lookupflag 0;
+
+  markClass [ @COMB.blw ] <anchor 0 0> @LatinBelow.mark;
+
+  # small, small.asc, cap
+  pos base [ uni25CC @small @small.asc @cap ] <anchor 660 0> mark @LatinBelow.mark;
+
+  # small.desc, cap.desc
+  pos base [ @small.desc @small.asc.desc @cap.desc ] <anchor 660 -240> mark @LatinBelow.mark;
+
+} LatinBelow.mark;
+
+feature mark {
+  lookup LatinAbove.mark;
+  lookup LatinBelow.mark;
+} mark;
+
+
+lookup LatinAbove.mkmk {
+  lookupflag 0;
+
+  markClass @COMB.abv <anchor 0 0> @LatinAbove.mkmk;
+
+  pos mark @COMB.abv <anchor 0 240> mark @LatinAbove.mkmk;
+
+} LatinAbove.mkmk;
+
+lookup LatinBelow.mkmk {
+  lookupflag 0;
+
+  markClass @COMB.blw <anchor 0 0> @LatinBelow.mkmk;
+
+  pos mark @COMB.blw <anchor 0 -240> mark @LatinBelow.mkmk;
+
+} LatinBelow.mkmk;
+
+feature mkmk {
+  lookup LatinAbove.mkmk;
+  lookup LatinBelow.mkmk;
+} mkmk;

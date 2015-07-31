@@ -9,3 +9,7 @@ pkg/
 src/
 
 *.sfd-*
+notes.txt
+*-temp*
+sources/*.*tf
+*/bak/*

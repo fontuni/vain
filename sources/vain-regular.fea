@@ -1,0 +1,6 @@
+languagesystem DFLT dflt;
+
+include(features/classes.fea)
+include(features/gsub.fea)
+include(features/gpos.fea)
+
