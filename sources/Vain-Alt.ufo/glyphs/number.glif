@@ -27,6 +27,124 @@
   <unicode hex="00BC"/>
   <unicode hex="00BD"/>
   <unicode hex="00BE"/>
+
+  <unicode hex="2030"/>
+
+  <unicode hex="20A1"/>
+  <unicode hex="20A2"/>
+  <unicode hex="20A3"/>
+  <unicode hex="20A4"/>
+  <unicode hex="20A5"/>
+  <unicode hex="20A6"/>
+  <unicode hex="20A7"/>
+  <unicode hex="20A8"/>
+  <unicode hex="20A9"/>
+  <unicode hex="20AA"/>
+  <unicode hex="20AB"/>
+  <unicode hex="20AC"/>
+  <unicode hex="20AD"/>
+  <unicode hex="20AE"/>
+  <unicode hex="20AF"/>
+  <unicode hex="20B0"/>
+  <unicode hex="20B1"/>
+  <unicode hex="20B0"/>
+  <unicode hex="20B2"/>
+  <unicode hex="20B3"/>
+  <unicode hex="20B4"/>
+  <unicode hex="20B5"/>
+  <unicode hex="20B6"/>
+  <unicode hex="20B7"/>
+  <unicode hex="20B8"/>
+  <unicode hex="20B9"/>
+  <unicode hex="20BA"/>
+  <unicode hex="20BB"/>
+  <unicode hex="20BC"/>
+  <unicode hex="20BD"/>
+  <unicode hex="20BE"/>
+  <unicode hex="20BF"/>
+
+  <unicode hex="2105"/>
+  <unicode hex="2113"/>
+  <unicode hex="2117"/>
+  <unicode hex="211E"/>
+  
+  <unicode hex="2120"/>
+  <unicode hex="2122"/>
+  <unicode hex="2126"/>
+  <unicode hex="212E"/>
+  <unicode hex="2153"/>
+  <unicode hex="2154"/>
+  <unicode hex="2155"/>
+  <unicode hex="2156"/>
+  <unicode hex="2157"/>
+  <unicode hex="2158"/>
+  <unicode hex="2159"/>
+  <unicode hex="215A"/>
+  <unicode hex="215B"/>
+  <unicode hex="215C"/>
+  <unicode hex="215D"/>
+  <unicode hex="215E"/>
+  
+  <unicode hex="2190"/>
+  <unicode hex="2191"/>
+  <unicode hex="2192"/>
+  <unicode hex="2193"/>
+  <unicode hex="2194"/>
+  <unicode hex="2195"/>
+  <unicode hex="21A8"/>
+  
+  <unicode hex="2202"/>
+  <unicode hex="2206"/>
+  <unicode hex="220F"/>
+  <unicode hex="2211"/>
+  <unicode hex="2215"/>
+  <unicode hex="221A"/>
+  <unicode hex="221E"/>
+  <unicode hex="221F"/>
+  <unicode hex="2229"/>
+
+  <unicode hex="2302"/>
+  <unicode hex="2310"/>
+  
+  <unicode hex="25A0"/>
+  <unicode hex="25A1"/>
+  <unicode hex="25AA"/>
+  <unicode hex="25AB"/>
+  <unicode hex="25B2"/>
+  <unicode hex="25B3"/>
+  <unicode hex="25B6"/>
+  <unicode hex="25B7"/>
+  <unicode hex="25BC"/>
+  <unicode hex="25BD"/>
+  <unicode hex="25C0"/>
+  <unicode hex="25C1"/>
+  <unicode hex="25C9"/>
+  <unicode hex="25CA"/>
+  <unicode hex="25CB"/>
+  <unicode hex="25CC"/>
+  <unicode hex="25CF"/>
+  <unicode hex="25E6"/>
+
+  <unicode hex="2610"/>
+  <unicode hex="2611"/>
+  <unicode hex="263A"/>
+  <unicode hex="263B"/>
+  <unicode hex="263C"/>
+  <unicode hex="2640"/>
+  <unicode hex="2642"/>
+  <unicode hex="2660"/>
+  <unicode hex="2663"/>
+  <unicode hex="2665"/>
+  <unicode hex="2666"/>
+  <unicode hex="266A"/>
+  <unicode hex="266B"/>
+  <unicode hex="266C"/>
+  <unicode hex="267E"/>
+  <unicode hex="2713"/>
+  <unicode hex="2752"/>
+  <unicode hex="27E8"/>
+  <unicode hex="27E9"/>
+  
   <outline>
     <contour>
       <point x="30" y="0" type="line"/>

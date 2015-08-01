@@ -67,6 +67,47 @@
   <unicode hex="02F6"/>
   <unicode hex="02F9"/>
   <unicode hex="02FA"/>
+
+  <unicode hex="1D5A"/>
+  <unicode hex="1D5B"/>
+  <unicode hex="1D5D"/>
+  <unicode hex="1D5E"/>
+  <unicode hex="1D60"/>
+  <unicode hex="1D61"/>
+  <unicode hex="1D9C"/>
+  <unicode hex="1D9E"/>
+  <unicode hex="1DA0"/>
+  <unicode hex="1DA8"/>
+  <unicode hex="1DBB"/>
+  <unicode hex="1DBF"/>
+
+  <unicode hex="2018"/>
+  <unicode hex="2019"/>
+  <unicode hex="201B"/>
+  <unicode hex="201C"/>
+  <unicode hex="201D"/>
+  <unicode hex="201F"/>
+  <unicode hex="2032"/>
+  <unicode hex="2033"/>
+  <unicode hex="203E"/>
+
+  <unicode hex="2070"/>
+  <unicode hex="2071"/>
+  <unicode hex="2074"/>
+  <unicode hex="2075"/>
+  <unicode hex="2076"/>
+  <unicode hex="2077"/>
+  <unicode hex="2078"/>
+  <unicode hex="2079"/>
+  <unicode hex="207A"/>
+  <unicode hex="207B"/>
+  <unicode hex="207C"/>
+  <unicode hex="207D"/>
+  <unicode hex="207E"/>
+  <unicode hex="207F"/>
+
+  <unicode hex="A78B"/>
+  <unicode hex="A78C"/>
   
   <outline>
     <contour>

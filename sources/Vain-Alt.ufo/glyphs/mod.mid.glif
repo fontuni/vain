@@ -31,6 +31,30 @@
   <unicode hex="02E8"/>
   <unicode hex="02E9"/>
   <unicode hex="02F8"/>
+
+  <unicode hex="2010"/>
+  <unicode hex="2011"/>
+  <unicode hex="2012"/>
+  <unicode hex="2013"/>
+  <unicode hex="2014"/>
+  <unicode hex="2015"/>
+  <unicode hex="2016"/>
+  <unicode hex="2017"/>
+  <unicode hex="2022"/>
+  <unicode hex="2039"/>
+  <unicode hex="203A"/>
+  <unicode hex="2044"/>
+
+  <unicode hex="2212"/>
+  <unicode hex="2219"/>
+  <unicode hex="2248"/>
+  <unicode hex="2260"/>
+  <unicode hex="2261"/>
+  <unicode hex="2264"/>
+  <unicode hex="2265"/>
+
+  <unicode hex="A789"/>
+  <unicode hex="A78A"/>
   
   <outline>
     <contour>

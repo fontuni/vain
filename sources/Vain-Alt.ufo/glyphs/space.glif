@@ -4,4 +4,6 @@
   <unicode hex="000D"/>
   <unicode hex="0020"/>
   <unicode hex="00A0"/>
+
+  <unicode hex="2007"/>
 </glyph>

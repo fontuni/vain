@@ -91,12 +91,34 @@
   <unicode hex="024E"/>
   <unicode hex="0298"/>
 
+  <unicode hex="03A9"/>
+  <unicode hex="03B8"/>
+  <unicode hex="03BB"/>
+
   <unicode hex="0E3F"/>
 
   <unicode hex="1E9E"/>
   <unicode hex="1EFA"/>
   <unicode hex="1EFC"/>
   <unicode hex="1EFE"/>
+
+  <unicode hex="2C62"/>
+  <unicode hex="2C63"/>
+  <unicode hex="2C64"/>
+  <unicode hex="2C6D"/>
+  <unicode hex="2C6E"/>
+  <unicode hex="2C6F"/>
+  <unicode hex="2C70"/>
+  <unicode hex="2C72"/>
+
+  <unicode hex="A78D"/>
+  <unicode hex="A7AA"/>
+  <unicode hex="A7AD"/>
+  <unicode hex="A7B0"/>
+  <unicode hex="A7B1"/>
+  <unicode hex="A7B2"/>
+  <unicode hex="A7B4"/>
+  <unicode hex="A7B6"/>
 
   <outline>
     <contour>

@@ -26,7 +26,15 @@
   <unicode hex="024A"/>
   <unicode hex="0297"/>
 
+  <unicode hex="03B2"/>
+
   <unicode hex="014A"/>
+
+  <unicode hex="2020"/>
+  <unicode hex="2021"/>
+
+  <unicode hex="222B"/>
+  
   <outline>
     <contour>
       <point x="30" y="-240" type="line"/>

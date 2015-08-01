@@ -10,4 +10,11 @@
   <unicode hex="0338"/>
   <unicode hex="034F"/>
   <unicode hex="0358"/>
+
+  <unicode hex="200C"/>
+  <unicode hex="200D"/>
+  <unicode hex="200E"/>
+  <unicode hex="200F"/>
+
+  <unicode hex="FFFD"/>
 </glyph>

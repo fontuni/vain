@@ -25,6 +25,24 @@
   <unicode hex="02FE"/>
   <unicode hex="02FF"/>
 
+  <unicode hex="201A"/>
+  <unicode hex="201E"/>
+  <unicode hex="2026"/>
+
+  <unicode hex="2080"/>
+  <unicode hex="2081"/>
+  <unicode hex="2082"/>
+  <unicode hex="2083"/>
+  <unicode hex="2084"/>
+  <unicode hex="2085"/>
+  <unicode hex="2086"/>
+  <unicode hex="2087"/>
+  <unicode hex="2088"/>
+  <unicode hex="2089"/>
+  <unicode hex="208A"/>
+  <unicode hex="208B"/>
+  <unicode hex="208C"/>
+
   
   <outline>
     <contour>

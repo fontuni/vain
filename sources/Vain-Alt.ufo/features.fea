@@ -6,6 +6,7 @@ languagesystem lao dflt;
 
 # GSUB 
 
+# simple substitutions, easier than `mark`
 lookup compose.ccmp {
   lookupflag 0;
 
@@ -27,9 +28,19 @@ lookup compose.ccmp {
 
 } compose.ccmp;
 
+# strip all combs when follow mods.
+lookup comb2zwsp {
+  sub [ \comb.blw \comb.abv \comb.abv.abv ] by \zwsp;
+} comb2zwsp;
+
+lookup decompose.ccmp {
+  lookupflag 0;
+    sub [ \mod.abv \mod.blw \mod.mid ] [ \comb.blw \comb.abv \comb.abv.abv ]' lookup comb2zwsp;
+} decompose.ccmp;
 
 feature ccmp {
   lookup compose.ccmp;
+  lookup decompose.ccmp;
 } ccmp;
 
 

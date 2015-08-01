@@ -4,6 +4,7 @@
   <unicode hex="0021"/>
   <unicode hex="003F"/>
   <unicode hex="01C3"/>
+  <unicode hex="203C"/>
   <outline>
     <contour>
       <point x="30" y="0" type="line"/>

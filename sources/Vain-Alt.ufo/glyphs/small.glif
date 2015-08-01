@@ -78,6 +78,9 @@
   <unicode hex="02AC"/>
   <unicode hex="02AD"/>
 
+  <unicode hex="03C0"/>
+  <unicode hex="03C6"/>
+
   <unicode hex="0E01"/>
   <unicode hex="0E02"/>
   <unicode hex="0E03"/>
@@ -180,6 +183,18 @@
   <unicode hex="0EDD"/>
   <unicode hex="0EDE"/>
   <unicode hex="0EDF"/>
+
+  <unicode hex="1D05"/>
+  <unicode hex="1D7B"/>
+  <unicode hex="1D7C"/>
+  <unicode hex="1D7D"/>
+
+  <unicode hex="2C71"/>
+  <unicode hex="2C73"/>
+
+  <unicode hex="A7B5"/>
+  <unicode hex="A7B7"/>
+  <unicode hex="AB53"/>
   
   <outline>
     <contour>
