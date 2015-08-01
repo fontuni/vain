@@ -1,0 +1,38 @@
+lookup blw.mark {
+  lookupflag 0;
+  markClass [ \comb.blw ] <anchor 0 0> @blw.mark;
+  pos base [ \cap \cap.abv \cap.abv.abv \small \small.abv \small.abv.abv ] <anchor 660 0> mark @blw.mark;
+  pos base [ \cap.blw \cap.blw.abv \cap.desc \small.blw \small.blw.abv \small.desc \small.desc.abv ] <anchor 660 -240> mark @blw.mark;
+} blw.mark;
+
+lookup abv.mark {
+  lookupflag 0;
+  markClass [ \comb.abv \comb.abv.abv ] <anchor 0 0> @abv.mark;
+  pos base [ \cap.abv.abv ] <anchor 660 720> mark @abv.mark;
+  pos base [ \cap.abv \cap.blw.abv \small.abv.abv ] <anchor 660 480> mark @abv.mark;
+  pos base [ \cap \cap.desc \cap.blw \small.asc \small.abv \small.blw.abv \small.desc.abv ] <anchor 660 240> mark @abv.mark;
+  pos base [ \small \small.blw \small.desc ] <anchor 660 0> mark @abv.mark;
+} abv.mark;
+
+feature mark {
+  lookup blw.mark;
+  lookup abv.mark;
+} mark;
+
+lookup blw.mkmk {
+  lookupflag 0;
+  markClass [ \comb.blw ] <anchor 0 0> @blw.mkmk;
+  pos mark [ \comb.blw ] <anchor 0 -240> mark @blw.mkmk;
+} blw.mkmk;
+
+lookup abv.mkmk {
+  lookupflag 0;
+  markClass [ \comb.abv \comb.abv.abv ] <anchor 0 0> @abv.mkmk;
+  pos mark [ \comb.abv ] <anchor 0 240> mark @abv.mkmk;
+  pos mark [ \comb.abv.abv ] <anchor 0 480> mark @abv.mkmk;
+} abv.mkmk;
+
+feature mkmk {
+  lookup blw.mkmk;
+  lookup abv.mkmk;
+} mkmk;

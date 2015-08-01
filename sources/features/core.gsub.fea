@@ -1,0 +1,36 @@
+# simple substitutions, easier than `mark`
+lookup compose.ccmp {
+  lookupflag 0;
+
+    sub \cap \comb.abv by \cap.abv;
+    sub \cap \comb.blw by \cap.blw;
+    sub \cap.blw \comb.abv by \cap.blw.abv;
+    sub \cap.abv \comb.blw by \cap.blw.abv;
+    sub \cap.abv \comb.abv by \cap.abv.abv;
+    sub \cap \comb.abv \comb.abv by \cap.abv.abv;
+    sub \cap \comb.abv.abv by \cap.abv.abv;
+
+    sub \small \comb.abv by \small.abv;
+    sub \small \comb.blw by \small.blw;
+    sub \small.blw \comb.abv by \small.blw.abv;
+    sub \small.abv \comb.blw by \small.blw.abv;
+    sub \small.abv \comb.abv by \small.abv.abv;
+    sub \small \comb.abv \comb.abv by \small.abv.abv;
+    sub \small \comb.abv.abv by \small.abv.abv;
+
+} compose.ccmp;
+
+# strip all combs when follow mods.
+lookup comb2zwsp {
+  sub [ \comb.blw \comb.abv \comb.abv.abv ] by \zwsp;
+} comb2zwsp;
+
+lookup decompose.ccmp {
+  lookupflag 0;
+    sub [ \mod.abv \mod.blw \mod.mid ] [ \comb.blw \comb.abv \comb.abv.abv ]' lookup comb2zwsp;
+} decompose.ccmp;
+
+feature ccmp {
+  lookup compose.ccmp;
+  lookup decompose.ccmp;
+} ccmp;

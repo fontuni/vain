@@ -1,0 +1,5 @@
+@GDEF_Mark = [ \comb.abv \comb.blw \comb.abv.abv ];
+
+table GDEF {
+  GlyphClassDef , , @GDEF_Mark, ;
+} GDEF;

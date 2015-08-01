@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nonbreakingreturn" format="1">
-  <advance width="330"/>
-  <unicode hex="000D"/>
-  <unicode hex="0020"/>
-  <unicode hex="00A0"/>
-
-  <unicode hex="2007"/>
-</glyph>

@@ -1,4 +1,0 @@
-include(classes.fea)
-
-# strip combining when follow modifier
-@mod = [ uni02B7 uni02E2 uni02E3 uni1D5E uni1D7B uni1D7C uni1D9C uni1DBB ];
