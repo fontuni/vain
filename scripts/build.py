@@ -14,7 +14,7 @@ import subprocess
 
 # Predifined vars
 family = 'Vain'
-version = '1.0-alpha2'
+version = '1.0-beta1'
 source = 'sources/vain-master.sfd'
 weights = [400]
 layers = ['Regular', 'Italic']
@@ -126,13 +126,13 @@ def buildFont(source,family):
     print(font.fullname, 'TTF autohinted.')
 
     # hinted ttf to woff
-    #ttf2Woff(ttf,woff,genflags)
-    otf2Woff(otf,woff,otfflags)
+    ttf2Woff(ttf,woff,genflags)
+    #otf2Woff(otf,woff,otfflags)
     print(font.fullname, 'WOFF instance generated.')
 
     # hinted ttf to woff2
-    #subprocess.call(['woff2_compress',ttf])
-    subprocess.call(['woff2_compress',otf])
+    subprocess.call(['woff2_compress',ttf])
+    #subprocess.call(['woff2_compress',otf])
     print(font.fullname, 'WOFF2 instance generated.')
 
   font.save('sources/vain-master-temp.sfd')
