@@ -1,11 +1,11 @@
 SplineFontDB: 3.0
-FontName: Vain-Regular
-FullName: Vain Regular
+FontName: Vain
+FullName: Vain
 FamilyName: Vain
 Weight: 400
 Copyright: Copyright 2015, Sungsit Sawaiwan (https://fontuni.com | uni@fontuni.com). This Font Software is licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
-Version: 1.0-beta1
-ItalicAngle: -9
+Version: 1.0
+ItalicAngle: 0
 UnderlinePosition: -60
 UnderlineWidth: 30
 Ascent: 960
@@ -16,8 +16,8 @@ UFODescent: -240
 LayerCount: 4
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-Layer: 2 0 "Regular" 0
-Layer: 3 0 "Italic" 0
+Layer: 2 0 "Normal" 0
+Layer: 3 0 "Mon" 0
 PreferredKerning: 4
 StyleMap: 0x0040
 FSType: 0
@@ -25,7 +25,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1424010032
-ModificationTime: 1438436173
+ModificationTime: 1446038125
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -48,7 +48,7 @@ OS2CapHeight: 840
 OS2Vendor: 'FUni'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033
+LangName: 1033 "" "" "" "" "" "" "" "" "FontUni" "Sungsit Sawaiwan" "" "https://fontuni.com/" "https://sungsit.com/" "Copyright 2015, Sungsit Sawaiwan (fontuni.com | uni@fontuni.com). +AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at: http://scripts.sil.org/OFL+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Vain" "Regular"
 Encoding: Custom
 Compacted: 1
 UnicodeInterp: none
@@ -57,13 +57,7 @@ DisplaySize: -48
 DisplayLayer: 2
 AntiAlias: 1
 FitToEm: 0
-BeginPrivate: 6
-BlueValues 31 [-240 -240 0 0 600 600 840 840]
-StemSnapH 12 [60 180 600]
-StemSnapV 8 [60 600]
-StdHW 5 [180]
-StdVW 5 [600]
-OtherBlues 57 [-480 -480 660 660 900 900 1080 1080 1140 1140 1320 1320]
+BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 26 26
@@ -74,8 +68,10 @@ AltUni2: 00031b.ffffffff.0 000334.ffffffff.0 000335.ffffffff.0 000336.ffffffff.0
 GlifName: zwsp
 Width: 0
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: .notdef
@@ -83,9 +79,7 @@ Encoding: 1 -1 1
 GlifName: _notdef
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 60<90 570> 540 60<90 570>
-VStem: 30 60<60 540> 570 60<60 540>
+Flags: HMW
 LayerCount: 4
 Layer: 2
 SplineSet
@@ -100,18 +94,27 @@ SplineSet
  90 540 l 257
  90 60 l 257
 EndSplineSet
+Validated: 1
 Layer: 3
 SplineSet
--30 0 m 257
- 65 600 l 257
- 665 600 l 257
- 570 0 l 257
- -30 0 l 257
-40 60 m 257
- 520 60 l 257
- 596 540 l 257
- 116 540 l 257
- 40 60 l 257
+510 600 m 6
+ 576 600 630 546 630 480 c 6
+ 630 120 l 6
+ 630 54 576 0 510 0 c 6
+ 150 0 l 6
+ 84 0 30 54 30 120 c 6
+ 30 480 l 6
+ 30 546 84 600 150 600 c 6
+ 510 600 l 6
+510 540 m 6
+ 150 540 l 6
+ 116 540 90 514 90 480 c 6
+ 90 120 l 6
+ 90 86 116 60 150 60 c 6
+ 510 60 l 6
+ 544 60 570 86 570 120 c 6
+ 570 480 l 6
+ 570 514 544 540 510 540 c 6
 EndSplineSet
 EndChar
 
@@ -121,8 +124,10 @@ AltUni2: 000020.ffffffff.0 0000a0.ffffffff.0 002007.ffffffff.0
 GlifName: space
 Width: 330
 VWidth: 0
-Flags: W
+Flags: HMW
 LayerCount: 4
+Layer: 2
+Validated: 1
 EndChar
 
 StartChar: cap
@@ -131,25 +136,28 @@ AltUni2: 000042.ffffffff.0 000043.ffffffff.0 000044.ffffffff.0 000045.ffffffff.0
 GlifName: cap
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 21G<30 630> 820 20G<30 630>
-VStem: 30 600<0 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
 SplineSet
-30 0 m 257
- 30 840 l 257
- 630 840 l 257
- 630 0 l 257
- 30 0 l 257
+30 0 m 261
+ 30 840 l 261
+ 630 840 l 261
+ 630 0 l 261
+ 30 0 l 261
 EndSplineSet
+Validated: 1
 Layer: 3
 SplineSet
--30 0 m 257
- 103 840 l 257
- 703 840 l 257
- 570 0 l 257
- -30 0 l 257
+540 840 m 6
+ 590 840 630 800 630 750 c 6
+ 630 90 l 6
+ 630 40 590 0 540 0 c 6
+ 120 0 l 6
+ 70 0 30 40 30 90 c 6
+ 30 750 l 6
+ 30 800 70 840 120 840 c 6
+ 540 840 l 6
 EndSplineSet
 EndChar
 
@@ -159,36 +167,15 @@ AltUni2: 000104.ffffffff.0 000118.ffffffff.0 000122.ffffffff.0 00012e.ffffffff.0
 GlifName: cap.blw
 Width: 660
 VWidth: 0
-Flags: W
-HStem: -240 180<30 630> 0 21G<30 630> 820 20G<30 630>
-VStem: 30 600<-240 -60 0 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 -240 m 257
- 30 -60 l 257
- 630 -60 l 257
- 630 -240 l 257
- 30 -240 l 257
-30 0 m 257
- 30 840 l 257
- 630 840 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -900 2
+Refer: 3 65 N 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
--68 -240 m 257
- -40 -60 l 257
- 560 -60 l 257
- 532 -240 l 257
- -68 -240 l 257
--30 0 m 257
- 103 840 l 257
- 703 840 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -900 2
+Refer: 3 65 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: cap.blw.abv
@@ -197,46 +184,17 @@ AltUni2: 0001ec.ffffffff.0 001e1c.ffffffff.0 001e38.ffffffff.0 001e39.ffffffff.0
 GlifName: cap.blw.abv
 Width: 660
 VWidth: 0
-Flags: W
-HStem: -240 180<30 630> 0 21G<30 630> 820 20G<30 630> 900 180<30 630>
-VStem: 30 600<-240 -60 0 840 900 1080>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 900 m 257
- 30 1080 l 257
- 630 1080 l 257
- 630 900 l 257
- 30 900 l 257
-30 0 m 257
- 30 840 l 257
- 630 840 l 257
- 630 0 l 257
- 30 0 l 257
-30 -240 m 257
- 30 -60 l 257
- 630 -60 l 257
- 630 -240 l 257
- 30 -240 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 240 2
+Refer: 20 34 N 1 0 0 1 0 -900 2
+Refer: 3 65 N 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
-113 900 m 257
- 141 1080 l 257
- 741 1080 l 257
- 713 900 l 257
- 113 900 l 257
--30 0 m 257
- 103 840 l 257
- 703 840 l 257
- 570 0 l 257
- -30 0 l 257
--68 -240 m 257
- -40 -60 l 257
- 560 -60 l 257
- 532 -240 l 257
- -68 -240 l 257
-EndSplineSet
+Refer: 20 34 N 1 0 0 1 0 240 2
+Refer: 20 34 S 1 0 0 1 0 -900 2
+Refer: 3 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: cap.abv
@@ -245,36 +203,15 @@ AltUni2: 0000c1.ffffffff.0 0000c2.ffffffff.0 0000c3.ffffffff.0 0000c4.ffffffff.0
 GlifName: cap.abv
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 21G<30 630> 820 20G<30 630> 900 180<30 630>
-VStem: 30 600<0 840 900 1080>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 900 m 257
- 30 1080 l 257
- 630 1080 l 257
- 630 900 l 257
- 30 900 l 257
-30 0 m 257
- 30 840 l 257
- 630 840 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 240 2
+Refer: 3 65 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
-113 900 m 257
- 141 1080 l 257
- 741 1080 l 257
- 713 900 l 257
- 113 900 l 257
--30 0 m 257
- 103 840 l 257
- 703 840 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 240 2
+Refer: 3 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: cap.abv.abv
@@ -283,46 +220,17 @@ AltUni2: 0001d7.ffffffff.0 0001d9.ffffffff.0 0001db.ffffffff.0 0001de.ffffffff.0
 GlifName: cap.abv.abv
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 21G<30 630> 820 20G<30 630> 900 180<30 630> 1140 180<30 630>
-VStem: 30 600<0 840 900 1080 1140 1320>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 1140 m 257
- 30 1320 l 261
- 630 1320 l 257
- 630 1140 l 257
- 30 1140 l 257
-30 900 m 257
- 30 1080 l 257
- 630 1080 l 257
- 630 900 l 257
- 30 900 l 257
-30 0 m 257
- 30 840 l 257
- 630 840 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 480 2
+Refer: 20 34 S 1 0 0 1 0 240 2
+Refer: 3 65 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
-151 1140 m 257
- 179 1320 l 257
- 779 1320 l 257
- 751 1140 l 257
- 151 1140 l 257
-113 900 m 257
- 141 1080 l 257
- 741 1080 l 257
- 713 900 l 257
- 113 900 l 257
--30 0 m 257
- 103 840 l 257
- 703 840 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 480 2
+Refer: 20 34 N 1 0 0 1 0 240 2
+Refer: 3 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: cap.desc
@@ -331,9 +239,7 @@ AltUni2: 000029.ffffffff.0 00005b.ffffffff.0 00005d.ffffffff.0 00007b.ffffffff.0
 GlifName: cap.desc
 Width: 660
 VWidth: 0
-Flags: W
-HStem: -240 21G<30 630> 820 20G<30 630>
-VStem: 30 600<-240 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
 SplineSet
@@ -343,13 +249,18 @@ SplineSet
  630 -240 l 257
  30 -240 l 257
 EndSplineSet
+Validated: 1
 Layer: 3
 SplineSet
--68 -240 m 257
- 103 840 l 257
- 703 840 l 257
- 532 -240 l 257
- -68 -240 l 257
+540 840 m 2
+ 590 840 630 800 630 750 c 2
+ 630 -150 l 6
+ 630 -200 590 -240 540 -240 c 6
+ 120 -240 l 6
+ 70 -240 30 -200 30 -150 c 6
+ 30 750 l 2
+ 30 800 70 840 120 840 c 2
+ 540 840 l 2
 EndSplineSet
 EndChar
 
@@ -359,9 +270,7 @@ AltUni2: 000063.ffffffff.0 000065.ffffffff.0 00006d.ffffffff.0 00006e.ffffffff.0
 GlifName: small
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 21G<30 630> 580 20G<30 630>
-VStem: 30 600<0 600>
+Flags: HMW
 LayerCount: 4
 Layer: 2
 SplineSet
@@ -371,13 +280,18 @@ SplineSet
  630 0 l 257
  30 0 l 257
 EndSplineSet
+Validated: 1
 Layer: 3
 SplineSet
--30 0 m 257
- 65 600 l 257
- 665 600 l 257
- 570 0 l 257
- -30 0 l 257
+540 600 m 6
+ 590 600 630 560 630 510 c 6
+ 630 90 l 2
+ 630 40 590 0 540 0 c 2
+ 120 0 l 2
+ 70 0 30 40 30 90 c 2
+ 30 510 l 6
+ 30 560 70 600 120 600 c 6
+ 540 600 l 6
 EndSplineSet
 EndChar
 
@@ -387,36 +301,15 @@ AltUni2: 000105.ffffffff.0 000119.ffffffff.0 000146.ffffffff.0 000157.ffffffff.0
 GlifName: small.blw
 Width: 660
 VWidth: 0
-Flags: W
-HStem: -240 180<30 630> 0 21G<30 630> 580 20G<30 630>
-VStem: 30 600<-240 -60 0 600>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 -240 m 257
- 30 -60 l 257
- 630 -60 l 257
- 630 -240 l 257
- 30 -240 l 257
-30 0 m 257
- 30 600 l 257
- 630 600 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -900 2
+Refer: 9 97 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
--68 -240 m 257
- -40 -60 l 257
- 560 -60 l 257
- 532 -240 l 257
- -68 -240 l 257
--30 0 m 257
- 65 600 l 257
- 665 600 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -900 2
+Refer: 9 97 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: small.blw.abv
@@ -425,46 +318,17 @@ AltUni2: 001e09.ffffffff.0 0001ed.ffffffff.0 001e1d.ffffffff.0 001e2d.ffffffff.0
 GlifName: small.blw.abv
 Width: 660
 VWidth: 0
-Flags: W
-HStem: -240 180<30 630> 0 21G<30 630> 580 20G<30 630> 660 180<30 630>
-VStem: 30 600<-240 -60 0 600 660 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 660 m 257
- 30 840 l 257
- 630 840 l 257
- 630 660 l 257
- 30 660 l 257
-30 0 m 257
- 30 600 l 257
- 630 600 l 257
- 630 0 l 257
- 30 0 l 257
-30 -240 m 257
- 30 -60 l 257
- 630 -60 l 257
- 630 -240 l 257
- 30 -240 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 0 2
+Refer: 20 34 N 1 0 0 1 0 -900 2
+Refer: 9 97 N 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
-75 660 m 257
- 103 840 l 257
- 703 840 l 257
- 675 660 l 257
- 75 660 l 257
--30 0 m 257
- 65 600 l 257
- 665 600 l 257
- 570 0 l 257
- -30 0 l 257
--68 -240 m 257
- -40 -60 l 257
- 560 -60 l 257
- 532 -240 l 257
- -68 -240 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 0 2
+Refer: 20 34 N 1 0 0 1 0 -900 2
+Refer: 9 97 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: small.abv
@@ -473,36 +337,15 @@ AltUni2: 0000e0.ffffffff.0 0000e1.ffffffff.0 0000e2.ffffffff.0 0000e3.ffffffff.0
 GlifName: small.abv
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 21G<30 630> 580 20G<30 630> 660 180<30 630>
-VStem: 30 600<0 600 660 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 660 m 257
- 30 840 l 257
- 630 840 l 257
- 630 660 l 257
- 30 660 l 257
-30 0 m 257
- 30 600 l 257
- 630 600 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 0 2
+Refer: 9 97 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
-75 660 m 257
- 103 840 l 257
- 703 840 l 257
- 675 660 l 257
- 75 660 l 257
--30 0 m 257
- 65 600 l 257
- 665 600 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 0 2
+Refer: 9 97 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: small.abv.abv
@@ -511,46 +354,17 @@ AltUni2: 0001d8.ffffffff.0 0001da.ffffffff.0 0001dc.ffffffff.0 0001df.ffffffff.0
 GlifName: small.abv.abv
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 21G<30 630> 580 20G<30 630> 660 180<30 630> 900 180<30 630>
-VStem: 30 600<0 600 660 840 900 1080>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 900 m 257
- 30 1080 l 257
- 630 1080 l 261
- 630 900 l 257
- 30 900 l 257
-30 660 m 257
- 30 840 l 257
- 630 840 l 257
- 630 660 l 257
- 30 660 l 257
-30 0 m 257
- 30 600 l 257
- 630 600 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 240 2
+Refer: 20 34 S 1 0 0 1 0 0 2
+Refer: 9 97 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
-113 900 m 257
- 141 1080 l 257
- 741 1080 l 257
- 713 900 l 257
- 113 900 l 257
-75 660 m 257
- 103 840 l 257
- 703 840 l 257
- 675 660 l 257
- 75 660 l 257
--30 0 m 257
- 65 600 l 257
- 665 600 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 240 2
+Refer: 20 34 S 1 0 0 1 0 0 2
+Refer: 9 97 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: small.desc
@@ -559,26 +373,13 @@ AltUni2: 000070.ffffffff.0 000071.ffffffff.0 000079.ffffffff.0 0000b5.ffffffff.0
 GlifName: small.desc
 Width: 660
 VWidth: 0
-Flags: W
-HStem: -240 21G<30 630> 580 20G<30 630>
-VStem: 30 600<-240 600>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 -240 m 257
- 30 600 l 257
- 630 600 l 257
- 630 -240 l 257
- 30 -240 l 257
-EndSplineSet
+Refer: 3 65 S 1 0 0 1 0 -240 2
+Validated: 1
 Layer: 3
-SplineSet
--68 -240 m 257
- 65 600 l 257
- 665 600 l 257
- 532 -240 l 257
- -68 -240 l 257
-EndSplineSet
+Refer: 3 65 S 1 0 0 1 0 -240 2
 EndChar
 
 StartChar: small.desc.abv
@@ -587,36 +388,15 @@ AltUni2: 0000a1.ffffffff.0 0000bf.ffffffff.0 000133.ffffffff.0 000135.ffffffff.0
 GlifName: small.desc.abv
 Width: 660
 VWidth: 0
-Flags: W
-HStem: -240 21G<30 630> 580 20G<30 630> 660 180<30 630>
-VStem: 30 600<-240 600 660 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 660 m 257
- 30 840 l 257
- 630 840 l 257
- 630 660 l 257
- 30 660 l 257
-30 -240 m 257
- 30 600 l 257
- 630 600 l 257
- 630 -240 l 257
- 30 -240 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 0 2
+Refer: 3 65 S 1 0 0 1 0 -240 2
+Validated: 1
 Layer: 3
-SplineSet
-75 660 m 257
- 103 840 l 257
- 703 840 l 257
- 675 660 l 257
- 75 660 l 257
--68 -240 m 257
- 65 600 l 257
- 665 600 l 257
- 532 -240 l 257
- -68 -240 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 0 2
+Refer: 3 65 N 1 0 0 1 0 -240 2
 EndChar
 
 StartChar: small.asc
@@ -625,26 +405,13 @@ AltUni2: 000064.ffffffff.0 000066.ffffffff.0 000068.ffffffff.0 00006b.ffffffff.0
 GlifName: small.asc
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 21G<30 630> 820 20G<30 630>
-VStem: 30 600<0 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 0 m 257
- 30 840 l 257
- 630 840 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 3 65 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
--30 0 m 257
- 103 840 l 257
- 703 840 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 3 65 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: small.asc.blw
@@ -653,36 +420,15 @@ AltUni2: 00013a.ffffffff.0 00013c.ffffffff.0 001e33.ffffffff.0 001e35.ffffffff.0
 GlifName: small.asc.blw
 Width: 660
 VWidth: 0
-Flags: W
-HStem: -240 180<30 630> 0 21G<30 630> 820 20G<30 630>
-VStem: 30 600<-240 -60 0 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 -240 m 257
- 30 -60 l 257
- 630 -60 l 257
- 630 -240 l 257
- 30 -240 l 257
-30 0 m 257
- 30 840 l 257
- 630 840 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -900 2
+Refer: 3 65 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
--68 -240 m 257
- -40 -60 l 257
- 560 -60 l 257
- 532 -240 l 257
- -68 -240 l 257
--30 0 m 257
- 103 840 l 257
- 703 840 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -900 2
+Refer: 3 65 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: number
@@ -691,26 +437,13 @@ AltUni2: 000024.ffffffff.0 000025.ffffffff.0 000026.ffffffff.0 00002f.ffffffff.0
 GlifName: number
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 21G<30 630> 820 20G<30 630>
-VStem: 30 600<0 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 0 m 257
- 30 840 l 257
- 630 840 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 3 65 S 1 0 0 1 0 0 2
+Validated: 1
 Layer: 3
-SplineSet
--30 0 m 257
- 103 840 l 257
- 703 840 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 3 65 S 1 0 0 1 0 0 2
 EndChar
 
 StartChar: exclam
@@ -719,36 +452,15 @@ AltUni2: 00003f.ffffffff.0 0001c3.ffffffff.0 00203c.ffffffff.0
 GlifName: exclam
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 180<30 630> 240 600<30 630>
-VStem: 30 600<0 180 240 840>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 0 m 257
- 30 180 l 257
- 630 180 l 257
- 630 0 l 257
- 30 0 l 257
-30 240 m 257
- 30 840 l 257
- 630 840 l 257
- 630 240 l 257
- 30 240 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -660 2
+Refer: 9 97 S 1 0 0 1 0 240 2
+Validated: 1
 Layer: 3
-SplineSet
--30 0 m 257
- -1 180 l 257
- 599 180 l 257
- 570 0 l 257
- -30 0 l 257
-8 240 m 257
- 103 840 l 257
- 703 840 l 257
- 608 240 l 257
- 8 240 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -660 2
+Refer: 9 97 S 1 0 0 1 0 240 2
 EndChar
 
 StartChar: mod.abv
@@ -757,24 +469,26 @@ AltUni2: 000027.ffffffff.0 00002a.ffffffff.0 00002d.ffffffff.0 00005e.ffffffff.0
 GlifName: mod.abv
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 660 180<30 630>
+Flags: HMW
 LayerCount: 4
 Layer: 2
 SplineSet
-30 660 m 257
+30 660 m 261
  30 840 l 257
  630 840 l 257
  630 660 l 257
- 30 660 l 257
+ 30 660 l 261
 EndSplineSet
+Validated: 1
 Layer: 3
 SplineSet
-75 660 m 257
- 103 840 l 257
- 703 840 l 257
- 675 660 l 257
- 75 660 l 257
+630 750 m 0
+ 630 700 590 660 540 660 c 2
+ 120 660 l 6
+ 70 660 30 700 30 750 c 0
+ 30 800 70 840 120 840 c 2
+ 540 840 l 2
+ 590 840 630 800 630 750 c 0
 EndSplineSet
 EndChar
 
@@ -784,25 +498,13 @@ AltUni2: 00003a.ffffffff.0 00003b.ffffffff.0 00003c.ffffffff.0 00003d.ffffffff.0
 GlifName: mod.mid
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 330 180<30 630>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 330 m 257
- 30 510 l 257
- 630 510 l 257
- 630 330 l 257
- 30 330 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -330 2
+Validated: 1
 Layer: 3
-SplineSet
-22 330 m 257
- 51 510 l 257
- 651 510 l 257
- 622 330 l 257
- 22 330 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -330 2
 EndChar
 
 StartChar: mod.blw
@@ -811,25 +513,13 @@ AltUni2: 00002e.ffffffff.0 00005f.ffffffff.0 0000b8.ffffffff.0 0002cc.ffffffff.0
 GlifName: mod.blw
 Width: 660
 VWidth: 0
-Flags: W
-HStem: 0 180<30 630>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
-30 0 m 257
- 30 180 l 257
- 630 180 l 257
- 630 0 l 257
- 30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -660 2
+Validated: 1
 Layer: 3
-SplineSet
--30 0 m 257
- -1 180 l 257
- 599 180 l 257
- 570 0 l 257
- -30 0 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 0 -660 2
 EndChar
 
 StartChar: comb.blw
@@ -838,25 +528,13 @@ AltUni2: 000317.ffffffff.0 000318.ffffffff.0 000319.ffffffff.0 00031c.ffffffff.0
 GlifName: comb.blw
 Width: 0
 VWidth: 0
-Flags: W
-HStem: -240 180<-630 -30>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
--630 -240 m 257
- -630 -60 l 257
- -30 -60 l 257
- -30 -240 l 257
- -630 -240 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 -660 -900 2
+Validated: 1
 Layer: 3
-SplineSet
--728 -240 m 257
- -700 -60 l 257
- -100 -60 l 257
- -128 -240 l 257
- -728 -240 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 -660 -900 2
 EndChar
 
 StartChar: comb.abv
@@ -865,25 +543,13 @@ AltUni2: 000301.ffffffff.0 000302.ffffffff.0 000303.ffffffff.0 000304.ffffffff.0
 GlifName: comb.abv
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 660 180<-630 -30>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
--630 660 m 257
- -630 840 l 257
- -30 840 l 257
- -30 660 l 257
- -630 660 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 -660 0 2
+Validated: 1
 Layer: 3
-SplineSet
--585 660 m 257
- -557 840 l 257
- 43 840 l 257
- 15 660 l 257
- -585 660 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 -660 0 2
 EndChar
 
 StartChar: comb.abv.abv
@@ -892,35 +558,15 @@ AltUni2: 001dc5.ffffffff.0 001dc6.ffffffff.0 001dc7.ffffffff.0
 GlifName: comb.abv.abv
 Width: 0
 VWidth: 0
-Flags: W
-HStem: 660 180<-630 -30> 900 180<-630 -30>
+Flags: HMW
 LayerCount: 4
 Layer: 2
-SplineSet
--630 900 m 257
- -630 1080 l 257
- -30 1080 l 257
- -30 900 l 257
- -630 900 l 257
--630 660 m 257
- -630 840 l 257
- -30 840 l 257
- -30 660 l 257
- -630 660 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 -660 240 2
+Refer: 20 34 S 1 0 0 1 -660 0 2
+Validated: 1
 Layer: 3
-SplineSet
--547 900 m 257
- -519 1080 l 257
- 81 1080 l 257
- 53 900 l 257
- -547 900 l 257
--585 660 m 257
- -557 840 l 257
- 43 840 l 257
- 15 660 l 257
- -585 660 l 257
-EndSplineSet
+Refer: 20 34 S 1 0 0 1 -660 240 2
+Refer: 20 34 S 1 0 0 1 -660 0 2
 EndChar
 EndChars
 EndSplineFont

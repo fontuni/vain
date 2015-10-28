@@ -14,12 +14,12 @@ import subprocess
 
 # Predifined vars
 family = 'Vain'
-version = '1.0-beta1'
+version = '1.0'
 source = 'sources/vain-master.sfd'
 weights = [400]
-layers = ['Regular', 'Italic']
+layers = ['Normal', 'Mon']
 copyright =  'Copyright 2015, Sungsit Sawaiwan (https://fontuni.com | uni@fontuni.com). This Font Software is licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL).'
-features = ['vain-regular', 'vain-italic']
+features = ['vain-roman', 'vain-italic']
 feature_dir = 'sources/'
 build_dir = 'fonts/'
 unhinted_dir = 'fonts/unhinted/'

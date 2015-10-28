@@ -6,15 +6,25 @@
  */
 @import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
 @font-face {
-  font-family: "Vain";
-  src: url(../fonts/Vain-Regular.woff2) format("woff2"), url(../fonts/Vain-Regular.woff) format("woff"), url(../fonts/Vain-Regular.ttf) format("truetype");
-  font-weight: normal;
+  font-family: Vain;
+  src: url(../fonts/woff2/Vain.woff2) format("woff2"), url(../fonts/woff/Vain.woff) format("woff"), url(../fonts/ttf/Vain.ttf) format("truetype");
+  font-weight: 400;
   font-style: normal; }
 @font-face {
-  font-family: "Vain";
-  src: url(../fonts/Vain-Italic.woff2) format("woff2"), url(../fonts/Vain-Italic.woff) format("woff"), url(../fonts/Vain-Italic.ttf) format("truetype");
-  font-weight: normal;
-  font-style: italic; }
+  font-family: Vain;
+  src: url(../fonts/woff2/Vain-Italic.woff2) format("woff2"), url(../fonts/woff/Vain-Italic.woff) format("woff"), url(../fonts/ttf/Vain-Italic.ttf) format("truetype");
+  font-weight: 400;
+  font-style: oblique; }
+@font-face {
+  font-family: Vain Mon;
+  src: url(../fonts/woff2/Vain-Mon.woff2) format("woff2"), url(../fonts/woff/Vain-Mon.woff) format("woff"), url(../fonts/ttf/Vain-Mon.ttf) format("truetype");
+  font-weight: 400;
+  font-style: normal; }
+@font-face {
+  font-family: Vain Mon;
+  src: url(../fonts/woff2/Vain-Mon-Italic.woff2) format("woff2"), url(../fonts/woff/Vain-Mon-Italic.woff) format("woff"), url(../fonts/ttf/Vain-Mon-Italic.ttf) format("truetype");
+  font-weight: 400;
+  font-style: oblique; }
 section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
   color: #fff; }
 
@@ -529,14 +539,24 @@ body .reveal {
       font-size: 60px;
       margin-top: 30px; } }
 body.vain-regular .reveal {
-  font-family: "Vain" !important; }
+  font-family: Vain !important; }
   body.vain-regular .reveal h1, body.vain-regular .reveal h2, body.vain-regular .reveal h3, body.vain-regular .reveal h4, body.vain-regular .reveal h5, body.vain-regular .reveal h6 {
-    font-family: "Vain" !important; }
+    font-family: Vain !important; }
 body.vain-italic .reveal {
-  font-family: "Vain" !important;
+  font-family: Vain !important;
   font-style: italic !important; }
   body.vain-italic .reveal h1, body.vain-italic .reveal h2, body.vain-italic .reveal h3, body.vain-italic .reveal h4, body.vain-italic .reveal h5, body.vain-italic .reveal h6 {
-    font-family: "Vain" !important;
+    font-family: Vain !important;
+    font-style: italic !important; }
+body.vain-mon .reveal {
+  font-family: Vain Mon !important; }
+  body.vain-mon .reveal h1, body.vain-mon .reveal h2, body.vain-mon .reveal h3, body.vain-mon .reveal h4, body.vain-mon .reveal h5, body.vain-mon .reveal h6 {
+    font-family: Vain Mon !important; }
+body.vain-mon-italic .reveal {
+  font-family: Vain Mon !important;
+  font-style: italic !important; }
+  body.vain-mon-italic .reveal h1, body.vain-mon-italic .reveal h2, body.vain-mon-italic .reveal h3, body.vain-mon-italic .reveal h4, body.vain-mon-italic .reveal h5, body.vain-mon-italic .reveal h6 {
+    font-family: Vain Mon !important;
     font-style: italic !important; }
 body.unvain .reveal,
 body .reveal .unvain {

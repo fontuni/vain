@@ -15,3 +15,14 @@ sources/*.*tf
 */bak/*
 fonts/unhinted/*
 .sass-cache/*
+
+*backup/*
+*.sfd-*
+*/unhinted/*
+*-temp*
+*-backup*
+*.bak
+
+# Package
+*-v*.zip
+sfd/*

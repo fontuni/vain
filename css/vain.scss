@@ -10,25 +10,30 @@
 @import "../libraries/reveal.js/css/theme/template/settings";
 // ---------------------------------------------
 
+// Theme-specific fonts
 $font-family: "Vain";
 
-// Theme-specific fonts
-@font-face {
-  font-family: $font-family;
-  src: url(../fonts/Vain-Regular.woff2) format('woff2'),
-       url(../fonts/Vain-Regular.woff) format('woff'),
-       url(../fonts/Vain-Regular.ttf) format('truetype');
-  font-weight: normal;
-  font-style: normal;
+@mixin font-include($family, $name, $weight, $style) {
+  font-family: $family;
+  src: url(../fonts/woff2/#{$name}.woff2) format('woff2'),
+       url(../fonts/woff/#{$name}.woff) format('woff'),
+       url(../fonts/ttf/#{$name}.ttf) format('truetype');
+  font-weight: $weight;
+  font-style: $style;
 }
 
 @font-face {
-  font-family: $font-family;
-  src: url(../fonts/Vain-Italic.woff2) format('woff2'),
-       url(../fonts/Vain-Italic.woff) format('woff'),
-       url(../fonts/Vain-Italic.ttf) format('truetype');
-  font-weight: normal;
-  font-style: italic;
+  @include font-include(Vain, Vain, 400, normal);
+}
+@font-face {
+  @include font-include(Vain, Vain-Italic, 400, oblique);
+}
+
+@font-face {
+  @include font-include(Vain Mon, Vain-Mon, 400, normal);
+}
+@font-face {
+  @include font-include(Vain Mon, Vain-Mon-Italic, 400, oblique);
 }
 
 // monospaced font
@@ -254,16 +259,30 @@ body .reveal {
 // Font options
 body {
   &.vain-regular .reveal {
-    font-family: $font-family !important;
+    font-family: Vain !important;
     h1, h2, h3, h4, h5, h6 {
-      font-family: $font-family !important;
+      font-family: Vain !important;
     }
   }
   &.vain-italic .reveal {
-    font-family: $font-family !important;
+    font-family: Vain !important;
     font-style: italic !important;
     h1, h2, h3, h4, h5, h6 {
-      font-family: $font-family !important;
+      font-family: Vain !important;
+      font-style: italic !important;
+    }
+  }
+  &.vain-mon .reveal {
+    font-family: Vain Mon !important;
+    h1, h2, h3, h4, h5, h6 {
+      font-family: Vain Mon !important;
+    }
+  }
+  &.vain-mon-italic .reveal {
+    font-family: Vain Mon !important;
+    font-style: italic !important;
+    h1, h2, h3, h4, h5, h6 {
+      font-family: Vain Mon !important;
       font-style: italic !important;
     }
   }

@@ -4,5 +4,5 @@ languagesystem thai dflt;
 languagesystem lao dflt;
 
 include(features/core.gsub.fea)
-include(features/regular.gpos.fea)
+include(features/roman.gpos.fea)
 include(features/core.gdef.fea)

@@ -1,3 +1,8 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem thai dflt;
+languagesystem lao dflt;
+
 lookup blw.mark {
   lookupflag 0;
   markClass [ \comb.blw ] <anchor 0 0> @blw.mark;
