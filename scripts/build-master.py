@@ -18,7 +18,7 @@ import datetime
 # Predifined vars
 foundry = 'FontUni'
 family = 'Vain'
-version = '1.0'
+version = '1.0.1'
 weights = [400]
 sources = ['sources/vain-roman.sfd','sources/vain-italic.sfd']
 layers = ['Normal', 'Mon']
