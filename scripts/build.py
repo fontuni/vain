@@ -24,7 +24,7 @@ weights = [400]
 sources = ['sources/vain-roman.sfd','sources/vain-italic.sfd']
 layers = ['Normal', 'Mon']
 copyright =  'Copyright 2015, Sungsit Sawaiwan (https://fontuni.com | uni@fontuni.com). This Font Software is licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL).'
-features = ['vain-roman', 'vain-roman']
+features = ['vain-roman', 'vain-italic']
 feature_dir = 'sources/'
 
 build_dir = 'fonts/'

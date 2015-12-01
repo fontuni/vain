@@ -5,18 +5,18 @@ languagesystem lao dflt;
 
 lookup blw.mark {
   lookupflag 0;
-  markClass [ \comb.blw ] <anchor -60 0> @blw.mark;
-  pos base [ \cap \cap.abv \cap.abv.abv \small \small.abv \small.abv.abv ] <anchor 600 0> mark @blw.mark;
-  pos base [ \cap.blw \cap.blw.abv \cap.desc \small.blw \small.blw.abv \small.desc \small.desc.abv ] <anchor 562 -240> mark @blw.mark;
+  markClass [\comb.blw ] <anchor -60 0> @blw.mark;
+  pos base [\cap \cap.abv \cap.abv.abv \small \small.abv \small.abv.abv ] <anchor 600 0> mark @blw.mark;
+  pos base [\cap.blw \cap.blw.abv \cap.desc \small.blw \small.blw.abv \small.desc \small.desc.abv ] <anchor 562 -240> mark @blw.mark;
 } blw.mark;
 
 lookup abv.mark {
   lookupflag 0;
-  markClass [ \comb.abv \comb.abv.abv ] <anchor -60 0> @abv.mark;
-  pos base [ \cap.abv.abv ] <anchor 714 720> mark @abv.mark;
-  pos base [ \cap.abv \cap.blw.abv \small.abv.abv ] <anchor 676 480> mark @abv.mark;
-  pos base [ \cap \cap.desc \cap.blw \small.asc \small.abv \small.blw.abv \small.desc.abv ] <anchor 638 240> mark @abv.mark;
-  pos base [ \small \small.blw \small.desc ] <anchor 600 0> mark @abv.mark;
+  markClass [\comb.abv \comb.abv.abv ] <anchor -60 0> @abv.mark;
+  pos base [\cap \cap.blw \cap.desc \small.blw.abv \small.abv \small.desc.abv \small.asc ] <anchor 638 240> mark @abv.mark;
+  pos base [\cap.blw.abv \cap.abv \small.abv.abv ] <anchor 676 480> mark @abv.mark;
+  pos base [\cap.abv.abv ] <anchor 714 720> mark @abv.mark;
+  pos base [\small \small.blw \small.desc ] <anchor 600 0> mark @abv.mark;
 } abv.mark;
 
 feature mark {
@@ -26,15 +26,15 @@ feature mark {
 
 lookup blw.mkmk {
   lookupflag 0;
-  markClass [ \comb.blw ] <anchor -60 0> @blw.mkmk;
-  pos mark [ \comb.blw ] <anchor -98 -240> mark @blw.mkmk;
+  markClass [\comb.blw ] <anchor -60 0> @blw.mkmk;
+  pos mark [\comb.blw ] <anchor -98 -240> mark @blw.mkmk;
 } blw.mkmk;
 
 lookup abv.mkmk {
   lookupflag 0;
-  markClass [ \comb.abv \comb.abv.abv ] <anchor -60 0> @abv.mkmk;
-  pos mark [ \comb.abv ] <anchor -22 240> mark @abv.mkmk;
-  pos mark [ \comb.abv.abv ] <anchor 16 480> mark @abv.mkmk;
+  markClass [\comb.abv \comb.abv.abv ] <anchor -60 0> @abv.mkmk;
+  pos mark [\comb.abv ] <anchor -22 240> mark @abv.mkmk;
+  pos mark [\comb.abv.abv ] <anchor 16 480> mark @abv.mkmk;
 } abv.mkmk;
 
 feature mkmk {
