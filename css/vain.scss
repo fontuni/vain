@@ -51,10 +51,10 @@ $font-family: "Vain";
 }
 
 // Override theme settings (see ../template/settings.scss)
-$backgroundColor: #fcfcfc;
+$backgroundColor: rgba(1%, 1%, 1%, 0.8);
 
-$mainColor: #222;
-$headingColor: #222;
+$mainColor: rgba(99%, 99%, 99%, 0.8);
+$headingColor: $backgroundColor;
 
 $mainFontSize: 54px;
 $mainLineHeight: 1.5;
@@ -65,7 +65,7 @@ $headingTextShadow: none;
 $headingLetterSpacing: normal;
 $headingTextTransform: capitalize;
 $headingFontWeight: 400;
-$linkColor: #f71;
+$linkColor: #e00;
 $linkColorHover: lighten( $linkColor, 15% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
 
