@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1200"
+   height="630"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="vain-cover.svg"
+   inkscape:export-filename="/home/i/repos/fontuni/fontuni.github.io/_fonts/vain/images/vain-cover.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="718"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.41053452"
+     inkscape:cx="456.52691"
+     inkscape:cy="92.350012"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="false"
+     showborder="false" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="back"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#ee0000;fill-opacity:0.95;stroke:none"
+       d="m 0,0 1200,0 0,630 -1200,0 z"
+       id="rect3364"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="fore"
+     style="display:none">
+    <g
+       style="font-style:normal;font-weight:normal;font-size:236.55030823px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.95;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text4168">
+      <path
+         d="m 250.53388,74.414784 q 7.49076,0 12.61602,5.125257 5.12525,5.125257 5.12525,12.616016 l 0,130.102673 q 0,7.49076 -5.12525,12.61601 Q 258.02464,240 250.53388,240 l -82.79261,0 q -7.49076,0 -12.61601,-5.12526 Q 150,229.74949 150,222.25873 l 0,-130.102673 q 0,-7.490759 5.12526,-12.616016 5.12525,-5.125257 12.61601,-5.125257 l 82.79261,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';fill:#000000;fill-opacity:0.9"
+         id="path5154"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 380.82136,121.72485 q 7.49076,0 12.61601,5.12525 5.12526,5.12526 5.12526,12.61602 l 0,82.79261 q 0,7.49076 -5.12526,12.61601 Q 388.31212,240 380.82136,240 l -82.79261,0 q -7.49076,0 -12.61602,-5.12526 -5.12525,-5.12525 -5.12525,-12.61601 l 0,-82.79261 q 0,-7.49076 5.12525,-12.61602 5.12526,-5.12525 12.61602,-5.12525 l 82.79261,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';fill:#000000;fill-opacity:0.9"
+         id="path5156"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 511.10883,121.72485 q 7.49076,0 12.61602,5.12525 5.12526,5.12526 5.12526,12.61602 l 0,82.79261 q 0,7.49076 -5.12526,12.61601 Q 518.59959,240 511.10883,240 l -82.79261,0 q -7.49076,0 -12.61601,-5.12526 -5.12526,-5.12525 -5.12526,-12.61601 l 0,-82.79261 q 0,-7.49076 5.12526,-12.61602 5.12525,-5.12525 12.61601,-5.12525 l 82.79261,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';fill:#000000;fill-opacity:0.9"
+         id="path5158"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 654.01232,79.540041 q 5.12526,5.125257 5.12526,12.616016 0,7.49076 -5.12526,12.616013 -5.12525,5.12526 -12.61601,5.12526 l -82.79261,0 q -7.49076,0 -12.61602,-5.12526 -5.12525,-5.125253 -5.12525,-12.616013 0,-7.490759 5.12525,-12.616016 5.12526,-5.125257 12.61602,-5.125257 l 82.79261,0 q 7.49076,0 12.61601,5.125257 z m -12.61601,42.184809 q 7.49076,0 12.61601,5.12525 5.12526,5.12526 5.12526,12.61602 l 0,82.79261 q 0,7.49076 -5.12526,12.61601 Q 648.88707,240 641.39631,240 l -82.79261,0 q -7.49076,0 -12.61602,-5.12526 -5.12525,-5.12525 -5.12525,-12.61601 l 0,-82.79261 q 0,-7.49076 5.12525,-12.61602 5.12526,-5.12525 12.61602,-5.12525 l 82.79261,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';fill:#000000;fill-opacity:0.9"
+         id="path5160"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 671.1499,240 0,-118.27515 118.27516,0 0,118.27515 -118.27516,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vain;-inkscape-font-specification:Vain"
+         id="path5162"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 801.43738,240 0,-118.27515 118.27515,0 0,118.27515 -118.27515,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vain;-inkscape-font-specification:Vain"
+         id="path5164"
+         inkscape:connector-curvature="0" />
+      <path
+         d="m 931.72485,240 0,-118.27515 118.27515,0 0,118.27515 -118.27515,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Vain;-inkscape-font-specification:Vain"
+         id="path5166"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <g
+     inkscape:label="fore copy"
+     id="g5168"
+     inkscape:groupmode="layer">
+    <g
+       id="g5239">
+      <g
+         id="g5233">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5207"
+           style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 150,240 0,-165.585216 118.27515,0 0,165.585216 L 150,240 Z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5209"
+           style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 280.28748,240 0,-118.27515 118.27515,0 0,118.27515 -118.27515,0 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5211"
+           style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 410.57495,240 0,-118.27515 118.27516,0 0,118.27515 -118.27516,0 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5213"
+           style="font-style:normal;font-weight:normal;font-size:medium;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.9;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 540.86243,109.89733 0,-35.482546 118.27515,0 0,35.482546 -118.27515,0 z m 0,130.10267 0,-118.27515 118.27515,0 0,118.27515 -118.27515,0 z" />
+      </g>
+      <g
+         id="g5228">
+        <path
+           inkscape:connector-curvature="0"
+           id="path5215"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.95;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 771.68378,121.72485 q 7.49076,0 12.61602,5.12525 5.12526,5.12526 5.12526,12.61602 l 0,82.79261 q 0,7.49076 -5.12526,12.61601 Q 779.17454,240 771.68378,240 l -82.7926,0 q -7.49076,0 -12.61602,-5.12526 -5.12526,-5.12525 -5.12526,-12.61601 l 0,-82.79261 q 0,-7.49076 5.12526,-12.61602 5.12526,-5.12525 12.61602,-5.12525 l 82.7926,0 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5217"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.95;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 901.97126,121.72485 q 7.49076,0 12.61602,5.12525 5.12525,5.12526 5.12525,12.61602 l 0,82.79261 q 0,7.49076 -5.12525,12.61601 Q 909.46202,240 901.97126,240 l -82.79261,0 q -7.49076,0 -12.61602,-5.12526 -5.12525,-5.12525 -5.12525,-12.61601 l 0,-82.79261 q 0,-7.49076 5.12525,-12.61602 5.12526,-5.12525 12.61602,-5.12525 l 82.79261,0 z" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path5219"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:125%;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.95;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1032.2587,121.72485 q 7.4908,0 12.6161,5.12525 5.1252,5.12526 5.1252,12.61602 l 0,82.79261 q 0,7.49076 -5.1252,12.61601 Q 1039.7495,240 1032.2587,240 l -82.79257,0 q -7.49076,0 -12.61602,-5.12526 -5.12526,-5.12525 -5.12526,-12.61601 l 0,-82.79261 q 0,-7.49076 5.12526,-12.61602 5.12526,-5.12525 12.61602,-5.12525 l 82.79257,0 z" />
+      </g>
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:44.27363586px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.95;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="148.89316"
+     y="345.46118"
+     id="text5194"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5196"
+       x="148.89316"
+       y="345.46118"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';fill:#ffffff;fill-opacity:0.95">Censorship ends in logical completeness</tspan><tspan
+       sodipodi:role="line"
+       x="148.89316"
+       y="400.80322"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';fill:#ffffff;fill-opacity:0.95"
+       id="tspan5198">when nobody is allowed to read any books</tspan><tspan
+       sodipodi:role="line"
+       x="148.89316"
+       y="456.14526"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Vain Mon';-inkscape-font-specification:'Vain Mon';fill:#ffffff;fill-opacity:0.95"
+       id="tspan5200">except the books that nobody can read.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:0.95;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="617.5"
+     y="532.29999"
+     id="text5202"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan5204"
+       x="617.5"
+       y="532.29999"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Boon;-inkscape-font-specification:'Boon Bold';fill:#ffffff;fill-opacity:0.95">― George Bernard Shaw</tspan></text>
+</svg>
