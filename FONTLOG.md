@@ -4,6 +4,9 @@ name: vain
 title: Vain FONTLOG
 css: ["/vain/css/vain-all.css"]
 theme: /css/theme-vain.css
+cover:
+  path: /vain/images/vain-cover.png
+excerpt: "Vain FONTLOG"
 ---
 
 ### Vain v1.1, 2015-12-01
