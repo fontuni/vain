@@ -1,23 +1,23 @@
 @font-face {
-  font-family: "Vain";
-  src: url(../fonts/woff2/Vain.woff2) format("woff2"), url(../fonts/woff/Vain.woff) format("woff"), url(../fonts/ttf/Vain.ttf) format("truetype");
+  font-family: Vain;
+  src: url(../fonts/woff2-otf/Vain-Regular.woff2) format("woff2"), url(../fonts/woff-otf/Vain-Regular.woff) format("woff"), url(../fonts/otf/Vain-Regular.otf) format("truetype");
   font-weight: 400;
   font-style: normal; }
 @font-face {
-  font-family: "Vain";
-  src: url(../fonts/woff2/Vain-Italic.woff2) format("woff2"), url(../fonts/woff/Vain-Italic.woff) format("woff"), url(../fonts/ttf/Vain-Italic.ttf) format("truetype");
+  font-family: Vain;
+  src: url(../fonts/woff2-otf/Vain-Italic.woff2) format("woff2"), url(../fonts/woff-otf/Vain-Italic.woff) format("woff"), url(../fonts/otf/Vain-Italic.otf) format("truetype");
   font-weight: 400;
-  font-style: oblique; }
+  font-style: italic; }
 @font-face {
-  font-family: "Vain Mon";
-  src: url(../fonts/woff2/Vain-Mon.woff2) format("woff2"), url(../fonts/woff/Vain-Mon.woff) format("woff"), url(../fonts/ttf/Vain-Mon.ttf) format("truetype");
+  font-family: Vain Mon;
+  src: url(../fonts/woff2-otf/VainMon-Regular.woff2) format("woff2"), url(../fonts/woff-otf/VainMon-Regular.woff) format("woff"), url(../fonts/otf/VainMon-Regular.otf) format("truetype");
   font-weight: 400;
   font-style: normal; }
 @font-face {
-  font-family: "Vain Mon";
-  src: url(../fonts/woff2/Vain-Mon-Oblique.woff2) format("woff2"), url(../fonts/woff/Vain-Mon-Oblique.woff) format("woff"), url(../fonts/ttf/Vain-Mon-Oblique.ttf) format("truetype");
+  font-family: Vain Mon;
+  src: url(../fonts/woff2-otf/VainMon-Italic.woff2) format("woff2"), url(../fonts/woff-otf/VainMon-Italic.woff) format("woff"), url(../fonts/otf/VainMon-Italic.otf) format("truetype");
   font-weight: 400;
-  font-style: oblique; }
+  font-style: italic; }
 .vain-regular {
   font-family: "Vain";
   font-weight: 400;

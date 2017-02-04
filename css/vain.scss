@@ -13,27 +13,28 @@
 // Theme-specific fonts
 $font-family: "Vain";
 
-@mixin font-include($family, $name, $weight, $style) {
-  font-family: $family;
-  src: url(../fonts/woff2/#{$name}.woff2) format('woff2'),
-       url(../fonts/woff/#{$name}.woff) format('woff'),
-       url(../fonts/ttf/#{$name}.ttf) format('truetype');
+// @font-face mixin
+@mixin font-include($font-family, $name, $weight, $style: normal) {
+  font-family: #{$font-family};
+  src: url(../fonts/woff2-otf/#{$name}.woff2) format('woff2'),
+       url(../fonts/woff-otf/#{$name}.woff) format('woff'),
+       url(../fonts/otf/#{$name}.otf) format('truetype');
   font-weight: $weight;
   font-style: $style;
 }
 
 @font-face {
-  @include font-include(Vain, Vain, 400, normal);
+  @include font-include("Vain", Vain-Regular, 400, normal);
 }
 @font-face {
-  @include font-include(Vain, Vain-Italic, 400, oblique);
+  @include font-include("Vain", Vain-Italic, 400, italic);
 }
 
 @font-face {
-  @include font-include(Vain Mon, Vain-Mon, 400, normal);
+  @include font-include("Vain Mon", VainMon-Regular, 400, normal);
 }
 @font-face {
-  @include font-include(Vain Mon, Vain-Mon-Italic, 400, oblique);
+  @include font-include("Vain Mon", VainMon-Italic, 400, italic);
 }
 
 // monospaced font

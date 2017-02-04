@@ -9,6 +9,14 @@ cover:
 excerpt: "Vain FONTLOG"
 ---
 
+### Vain v1.2, 2017-02-04
+{: .section-title }
+
+- Added new building process
+- Used generic names for all fonts
+- Corrected OS/2 Style Map for Windows
+- Removed EOT & SVG font packages
+
 ### Vain v1.1, 2015-12-01
 {: .section-title }
 
