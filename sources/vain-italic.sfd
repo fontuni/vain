@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: Vain
-FullName: Vain
+FontName: Vain-400i
+FullName: Vain Italic
 FamilyName: Vain
 Weight: 400
-Copyright: Copyright 2015, Sungsit Sawaiwan (https://fontuni.com | uni@fontuni.com). This Font Software is licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
-Version: 1.1
+Copyright: Copyright 2015-2017, Sungsit Sawaiwan (https://fontuni.com | uni@fontuni.com). This Font Software is licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL).
+Version: 1.2
 ItalicAngle: -9
 UnderlinePosition: -60
 UnderlineWidth: 30
@@ -16,21 +16,22 @@ UFODescent: -240
 LayerCount: 4
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-Layer: 2 0 "Normal" 0
-Layer: 3 0 "Mon" 0
+Layer: 2 0 "Vain" 0
+Layer: 3 0 "Vain Mon" 0
 PreferredKerning: 4
-StyleMap: 0x0040
+StyleMap: 0x0001
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1424010032
-ModificationTime: 1446037970
+ModificationTime: 1486178630
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
+Panose: 0 0 0 0 0 0 0 0 0 0
 OS2TypoAscent: 1320
 OS2TypoAOffset: 0
 OS2TypoDescent: -480
@@ -45,10 +46,11 @@ HheadAOffset: 0
 HheadDescent: -480
 HheadDOffset: 0
 OS2CapHeight: 840
+OS2FamilyClass: 3087
 OS2Vendor: 'FUni'
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "" "" "" "FontUni" "Sungsit Sawaiwan" "" "https://fontuni.com/" "https://sungsit.com/" "Copyright 2015, Sungsit Sawaiwan (fontuni.com | uni@fontuni.com). +AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is available with a FAQ at: http://scripts.sil.org/OFL+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "Vain" "Regular"
+LangName: 1033 "" "" "Italic" "" "" "" "" "" "FontUni" "Sungsit Sawaiwan" "" "https://fontuni.com/" "https://sungsit.com/" "" "http://scripts.sil.org/OFL" "" "Vain" "Italic"
 Encoding: Custom
 Compacted: 1
 UnicodeInterp: none

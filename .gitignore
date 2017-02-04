@@ -17,6 +17,8 @@ fonts/unhinted/*
 fonts/eot/*
 fonts/svg/*
 .sass-cache/*
+__pycache*
+*.pyc
 
 *backup/*
 *.sfd-*
@@ -24,6 +26,7 @@ fonts/svg/*
 *-temp*
 *-backup*
 *.bak
+*-bak*
 
 # Package
 sfd/*
