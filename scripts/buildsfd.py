@@ -17,40 +17,31 @@ import time
 import datetime
 
 # Predifined vars
-family = 'Vain'
-version = '1.2'
-foundry = 'FontUni'
-copyright =  'Copyright 2015-2017, Sungsit Sawaiwan (https://fontuni.com | uni@fontuni.com). This Font Software is licensed under the SIL Open Font License, Version 1.1 (http://scripts.sil.org/OFL).'
-os2_vendor = 'FUni'
-foundry_url = 'https://fontuni.com/'
-designer = 'Sungsit Sawaiwan'
-designer_url = 'https://sungsit.com/'
-license_url = 'http://scripts.sil.org/OFL'
+import fontvars
+from fontvars import * 
 
-sources = ['sources/vain-roman.sfd','sources/vain-italic.sfd']
-layers = ['Vain', 'Vain Mon']
-features = ['vain-roman', 'vain-italic']
-feature_dir = 'sources/'
-
-build_dir = 'fonts/'
-if os.path.exists(build_dir):
-  shutil.rmtree(build_dir)
-
-sfd_dir = 'sfd/'
-if os.path.exists(sfd_dir):
-  shutil.rmtree(sfd_dir)
-
-unhinted_dir = build_dir + 'unhinted/'
-if not os.path.exists(unhinted_dir):
-  os.makedirs(unhinted_dir)
-
-def fontPath(ext,name):
-  path = build_dir + ext
+# Helpers
+def fontPath(path,ext,name):
+  path = build_dir + path
   if not os.path.exists(path):
     os.makedirs(path)
   fontfile = path + '/' + name + '.' + ext
   return fontfile
 
+def printFontInfo(fontfile):
+  font = fontforge.open(fontfile)
+  print('\nFont File: ' + fontfile)
+  print('Family Name: ' + font.familyname)
+  print('Font Name: ' + font.fontname)
+  print('Full Name: ' + font.fullname)
+  print('Font Weight: ' + font.weight)
+  print('OS2 Weight: ' + str(font.os2_weight))
+  print('Italic Angle: ' + str(font.italicangle))
+  print('Font Version: ' + font.version)
+  print('Font Copyright: ' + font.copyright)
+  font.close()
+
+# Helpers
 def weights2Strings(weight):
   switcher = {
     100: "Thin",
@@ -108,46 +99,6 @@ def msStyleItalicName(weight):
   }
   return switcher.get(weight)
 
-def BlueValues(weight):
-  switcher = {
-    300: (-17, 0, 600, 617, 780, 797, 810, 827),
-    400: (-18, 0, 600, 618, 780, 798, 810, 828),
-    500: (-19, 0, 600, 619, 780, 799, 810, 829),
-    600: (-20, 0, 600, 620, 780, 800, 810, 830),
-    700: (-21, 0, 600, 621, 780, 801, 810, 831)
-  }
-  return switcher.get(weight)
-
-def OtherBlues(weight):
-  switcher = {
-    300: (-222, -210),
-    400: (-223, -210),
-    500: (-224, -210),
-    600: (-225, -210),
-    700: (-226, -210)
-  }
-  return switcher.get(weight)
-
-def StdHW(weight):
-  switcher = {
-    300: (52,),
-    400: (64,),
-    500: (79,),
-    600: (98,),
-    700: (110,)
-  }
-  return switcher.get(weight)
-
-def StdVW(weight):
-  switcher = {
-    300: (67,),
-    400: (85,),
-    500: (113,),
-    600: (137,),
-    700: (160,)
-  }
-  return switcher.get(weight)
-
 def otf2Sfd(otf,sfd_dir):
 
   font = fontforge.open(otf)
@@ -187,8 +138,6 @@ def buildSFD(source,family):
   font.version = version
   font.copyright = copyright
   font.os2_vendor = os2_vendor
-  font.weight = '400'
-  font.os2_weight = 400
   font.appendSFNTName('English (US)', 'Manufacturer', foundry)
   font.appendSFNTName('English (US)', 'Designer', designer)
   font.appendSFNTName('English (US)', 'Vendor URL', foundry_url)
@@ -198,7 +147,7 @@ def buildSFD(source,family):
 
   font.save()
 
-  if source.endswith('-italic.sfd'):
+  if source == sources[1]:
     font.mergeFeature(feature_dir + features[1] + '.fea')
   else:
     font.mergeFeature(feature_dir + features[0] + '.fea')
@@ -211,7 +160,7 @@ def buildSFD(source,family):
     font.appendSFNTName('English (US)', 'Preferred Family', layername)
 
     # Roman style
-    if source.endswith('-roman.sfd'):
+    if source == sources[0]:
       font.italicangle = 0.0
       font.fullname = layername + ' Regular'
       font.fontname = layername.replace(' ','') + '-Regular'
@@ -220,7 +169,7 @@ def buildSFD(source,family):
       font.os2_stylemap = 64 # 0x0040
 
     # Italic style
-    if source.endswith('-italic.sfd'):
+    if source == sources[1]:
       font.italicangle = -9.0
       font.fullname = layername + ' Italic'
       font.fontname = layername.replace(' ','') + '-Italic'
@@ -234,7 +183,7 @@ def buildSFD(source,family):
     else:
       genname = layername.replace(' ','-').replace('-Italic','Italic')
 
-    otf = fontPath('otf',genname)
+    otf = fontPath('otf','otf',genname)
 
     otfgenflags  = ('opentype', 'PfEd-lookups')
     font.generate(otf, flags=otfgenflags, layer = layername)
@@ -244,6 +193,8 @@ def buildSFD(source,family):
     otf2Sfd(otf,sfd_dir)
 
   font.close()
+  shutil.rmtree(build_dir)
 
 for source in sources:
   buildSFD(source,family)
+
