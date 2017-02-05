@@ -9,7 +9,7 @@ cover:
 excerpt: "Vain FONTLOG"
 ---
 
-### Vain v1.2, 2017-02-04
+### Vain v1.2, 2017-02-05
 {: .section-title }
 
 - Added new building process
